@@ -1,0 +1,341 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1010" viewBox="-4 -4 1208 1018">
+<rect x="0" y="0" width="1200" height="1010" rx="0" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<text x="30" y="41.0" dominant-baseline="central" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" fill="#000000">RC-505mkII · modular hardware</text>
+<rect x="30.0" y="105.0" width="608.4" height="236.11714285714288" rx="5.46" fill="#FFFFFF" stroke="#000000" stroke-width="1.9500000000000002"/>
+<rect x="53.90142857142857" y="234.64714285714288" width="560.5971428571429" height="203.16214285714287" rx="2.34" fill="#FFFFFF" stroke="#000000" stroke-width="1.9500000000000002"/>
+<ellipse cx="83.95928571428571" cy="159.68357142857144" rx="29.33357142857143" ry="29.33357142857143" fill="#FFFFFF" stroke="#000000" stroke-width="0.7242857142857143"/>
+<ellipse cx="83.95928571428571" cy="159.6835714285714" rx="26.79857142857143" ry="26.79857142857143" fill="#FFFFFF" stroke="#000000" stroke-width="0.7242857142857143"/>
+<polyline points="83.95928571428573,152.05684285714287 83.9592857142857,141.49675714285715" fill="none" stroke="#000000" stroke-width="1.4485714285714286" stroke-linecap="round" stroke-linejoin="round"/>
+<ellipse cx="142.26428571428573" cy="175.98" rx="7.967142857142858" ry="7.967142857142858" fill="#FFFFFF" stroke="#000000" stroke-width="0.6156428571428572"/>
+<text x="142.26428571428573" y="160.40785714285715" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="4.345714285714286" font-weight="400" fill="#000000">EDIT</text>
+<text x="119.2682142857143" y="192.63857142857142" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="6.156428571428572" font-weight="700" fill="#000000">INPUT FX</text>
+<text x="136.65107142857144" y="123.28821428571428" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="9.415714285714285" font-weight="700" fill="#000000">BOSS</text>
+<ellipse cx="58.24714285714286" cy="211.47" rx="8.691428571428572" ry="8.691428571428572" fill="#FFFFFF" stroke="#000000" stroke-width="0.6156428571428572"/>
+<text x="58.24714285714286" y="211.47" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="8.329285714285716" font-weight="700" fill="#000000">A</text>
+<ellipse cx="86.49428571428571" cy="211.47" rx="8.691428571428572" ry="8.691428571428572" fill="#FFFFFF" stroke="#000000" stroke-width="0.6156428571428572"/>
+<text x="86.49428571428571" y="211.47" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="8.329285714285716" font-weight="700" fill="#000000">B</text>
+<ellipse cx="114.37928571428573" cy="211.47" rx="8.691428571428572" ry="8.691428571428572" fill="#FFFFFF" stroke="#000000" stroke-width="0.6156428571428572"/>
+<text x="114.37928571428573" y="211.47" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="8.329285714285716" font-weight="700" fill="#000000">C</text>
+<ellipse cx="142.62642857142856" cy="211.47" rx="8.691428571428572" ry="8.691428571428572" fill="#FFFFFF" stroke="#000000" stroke-width="0.6156428571428572"/>
+<text x="142.62642857142856" y="211.47" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="8.329285714285716" font-weight="700" fill="#000000">D</text>
+<ellipse cx="582.9921428571429" cy="159.68357142857144" rx="29.33357142857143" ry="29.33357142857143" fill="#FFFFFF" stroke="#000000" stroke-width="0.7242857142857143"/>
+<ellipse cx="582.9921428571429" cy="159.6835714285714" rx="26.79857142857143" ry="26.79857142857143" fill="#FFFFFF" stroke="#000000" stroke-width="0.7242857142857143"/>
+<polyline points="582.9921428571429,152.05684285714287 582.9921428571429,141.49675714285715" fill="none" stroke="#000000" stroke-width="1.4485714285714286" stroke-linecap="round" stroke-linejoin="round"/>
+<ellipse cx="525.4114285714287" cy="175.98" rx="7.967142857142858" ry="7.967142857142858" fill="#FFFFFF" stroke="#000000" stroke-width="0.6156428571428572"/>
+<text x="525.4114285714287" y="160.40785714285715" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="4.345714285714286" font-weight="400" fill="#000000">EDIT</text>
+<text x="547.3210714285715" y="192.63857142857142" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="6.156428571428572" font-weight="700" fill="#000000">TRACK FX</text>
+<ellipse cx="525.4114285714286" cy="211.47" rx="8.691428571428572" ry="8.691428571428572" fill="#FFFFFF" stroke="#000000" stroke-width="0.6156428571428572"/>
+<text x="525.4114285714286" y="211.47" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="8.329285714285716" font-weight="700" fill="#000000">A</text>
+<ellipse cx="553.2964285714287" cy="211.47" rx="8.691428571428572" ry="8.691428571428572" fill="#FFFFFF" stroke="#000000" stroke-width="0.6156428571428572"/>
+<text x="553.2964285714287" y="211.47" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="8.329285714285716" font-weight="700" fill="#000000">B</text>
+<ellipse cx="581.1814285714287" cy="211.47" rx="8.691428571428572" ry="8.691428571428572" fill="#FFFFFF" stroke="#000000" stroke-width="0.6156428571428572"/>
+<text x="581.1814285714287" y="211.47" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="8.329285714285716" font-weight="700" fill="#000000">C</text>
+<ellipse cx="609.4285714285714" cy="211.47" rx="8.691428571428572" ry="8.691428571428572" fill="#FFFFFF" stroke="#000000" stroke-width="0.6156428571428572"/>
+<text x="609.4285714285714" y="211.47" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="8.329285714285716" font-weight="700" fill="#000000">D</text>
+<rect x="166.1657142857143" y="203.50285714285715" width="35.49" height="15.934285714285716" rx="7.967142857142858" fill="#FFFFFF" stroke="#000000" stroke-width="0.5432142857142858"/>
+<text x="183.9107142857143" y="207.48642857142858" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="4.707857142857143" font-weight="700" fill="#000000">ALL</text>
+<text x="183.9107142857143" y="215.45357142857142" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="4.707857142857143" font-weight="700" fill="#000000">START/STOP</text>
+<rect x="211.43357142857144" y="203.50285714285715" width="35.85214285714286" height="15.934285714285716" rx="7.967142857142858" fill="#FFFFFF" stroke="#000000" stroke-width="0.5432142857142858"/>
+<text x="229.35964285714286" y="207.48642857142858" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="5.7942857142857145" font-weight="700" fill="#000000">UNDO/</text>
+<text x="229.35964285714286" y="215.45357142857142" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="5.7942857142857145" font-weight="700" fill="#000000">REDO</text>
+<text x="369.3278571428571" y="117.67500000000001" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="8.691428571428572" font-weight="700" fill="#000000">RC-505mkII LOOP STATION</text>
+<rect x="229.90285714285713" y="141.57642857142858" width="37.66285714285714" height="16.29642857142857" rx="8.148214285714285" fill="#FFFFFF" stroke="#000000" stroke-width="0.5432142857142858"/>
+<text x="241.31035714285716" y="149.72464285714287" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="6.51857142857143" font-weight="700" fill="#000000">MENU</text>
+<ellipse cx="259.41749999999996" cy="149.72464285714287" rx="7.423928571428571" ry="7.423928571428571" fill="#FFFFFF" stroke="#000000" stroke-width="0.36214285714285716"/>
+<rect x="229.90285714285713" y="168.01285714285714" width="37.66285714285714" height="15.57214285714286" rx="7.78607142857143" fill="#FFFFFF" stroke="#000000" stroke-width="0.5432142857142858"/>
+<text x="241.6725" y="175.79892857142858" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="6.51857142857143" font-weight="700" fill="#000000">LOOP</text>
+<ellipse cx="259.77964285714285" cy="175.79892857142858" rx="7.0617857142857146" ry="7.0617857142857146" fill="#FFFFFF" stroke="#000000" stroke-width="0.36214285714285716"/>
+<rect x="280.24071428571426" y="136.14428571428573" width="107.55642857142857" height="49.61357142857143" rx="0.0" fill="#FFFFFF" stroke="#000000" stroke-width="1.0864285714285715"/>
+<rect x="293.27785714285716" y="139.4035714285714" width="81.12" height="43.095" rx="0.0" fill="#FFFFFF" stroke="#000000" stroke-width="0.7242857142857143"/>
+<text x="407.71500000000003" y="135.05785714285713" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="5.432142857142858" font-weight="400" fill="#000000">EXIT</text>
+<ellipse cx="407.71500000000003" cy="149.54357142857143" rx="6.156428571428572" ry="6.156428571428572" fill="#FFFFFF" stroke="#000000" stroke-width="0.6156428571428572"/>
+<text x="407.715" y="162.03750000000002" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="7.967142857142858" font-weight="400" fill="#000000">◀</text>
+<ellipse cx="407.71500000000003" cy="175.25571428571428" rx="6.156428571428572" ry="6.156428571428572" fill="#FFFFFF" stroke="#000000" stroke-width="0.6156428571428572"/>
+<text x="438.4971428571429" y="135.05785714285713" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="5.432142857142858" font-weight="400" fill="#000000">ENTER</text>
+<ellipse cx="438.4971428571429" cy="149.54357142857143" rx="6.156428571428572" ry="6.156428571428572" fill="#FFFFFF" stroke="#000000" stroke-width="0.6156428571428572"/>
+<text x="438.4971428571429" y="162.03750000000002" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="7.967142857142858" font-weight="400" fill="#000000">▶</text>
+<ellipse cx="438.4971428571429" cy="175.25571428571428" rx="6.156428571428572" ry="6.156428571428572" fill="#FFFFFF" stroke="#000000" stroke-width="0.6156428571428572"/>
+<ellipse cx="484.12714285714287" cy="142.66285714285715" rx="17.020714285714288" ry="17.020714285714288" fill="#FFFFFF" stroke="#000000" stroke-width="0.7242857142857143"/>
+<ellipse cx="484.1271428571428" cy="142.66285714285715" rx="14.485714285714288" ry="14.485714285714288" fill="#FFFFFF" stroke="#000000" stroke-width="0.7242857142857143"/>
+<polyline points="484.1271428571429,138.23747142857144 484.1271428571429,132.11001428571427" fill="none" stroke="#000000" stroke-width="1.4485714285714286" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="463.485" y="121.47749999999999" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="4.707857142857143" font-weight="700" fill="#000000">OUTPUT</text>
+<text x="463.485" y="127.63392857142857" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="4.707857142857143" font-weight="700" fill="#000000">LEVEL</text>
+<ellipse cx="276.25714285714287" cy="210.38357142857143" rx="15.57214285714286" ry="15.57214285714286" fill="#FFFFFF" stroke="#000000" stroke-width="1.0864285714285715"/>
+<ellipse cx="276.25714285714287" cy="210.38357142857143" rx="11.950714285714286" ry="11.950714285714286" fill="#000000" stroke="#000000" stroke-width="0.7242857142857143"/>
+<text x="276.25714285714287" y="230.66357142857143" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="6.156428571428572" font-weight="700" fill="#000000">1</text>
+<ellipse cx="314.64428571428573" cy="210.38357142857143" rx="15.57214285714286" ry="15.57214285714286" fill="#FFFFFF" stroke="#000000" stroke-width="1.0864285714285715"/>
+<ellipse cx="314.6442857142858" cy="210.38357142857143" rx="11.950714285714286" ry="11.950714285714286" fill="#000000" stroke="#000000" stroke-width="0.7242857142857143"/>
+<text x="314.64428571428573" y="230.66357142857143" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="6.156428571428572" font-weight="700" fill="#000000">2</text>
+<ellipse cx="352.66928571428576" cy="210.38357142857143" rx="15.57214285714286" ry="15.57214285714286" fill="#FFFFFF" stroke="#000000" stroke-width="1.0864285714285715"/>
+<ellipse cx="352.66928571428576" cy="210.38357142857143" rx="11.950714285714286" ry="11.950714285714286" fill="#000000" stroke="#000000" stroke-width="0.7242857142857143"/>
+<text x="352.66928571428576" y="230.66357142857143" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="6.156428571428572" font-weight="700" fill="#000000">3</text>
+<ellipse cx="391.0564285714286" cy="210.38357142857143" rx="15.57214285714286" ry="15.57214285714286" fill="#FFFFFF" stroke="#000000" stroke-width="1.0864285714285715"/>
+<ellipse cx="391.05642857142857" cy="210.38357142857143" rx="11.950714285714286" ry="11.950714285714286" fill="#000000" stroke="#000000" stroke-width="0.7242857142857143"/>
+<text x="391.0564285714286" y="230.66357142857143" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="6.156428571428572" font-weight="700" fill="#000000">4</text>
+<ellipse cx="472.17642857142863" cy="175.61785714285713" rx="6.156428571428572" ry="6.156428571428572" fill="#FFFFFF" stroke="#000000" stroke-width="0.6156428571428572"/>
+<text x="490.2835714285714" y="175.43678571428572" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="5.432142857142858" font-weight="400" fill="#000000">EDIT</text>
+<text x="482.67857142857144" y="193.00071428571428" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="6.51857142857143" font-weight="700" fill="#000000">RHYTHM</text>
+<rect x="420.75214285714287" y="203.50285714285712" width="35.49" height="15.934285714285716" rx="7.967142857142858" fill="#FFFFFF" stroke="#000000" stroke-width="0.5432142857142858"/>
+<text x="438.4971428571429" y="207.48642857142855" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="5.7942857142857145" font-weight="700" fill="#000000">TAP</text>
+<text x="438.4971428571429" y="215.45357142857142" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="5.7942857142857145" font-weight="700" fill="#000000">TEMPO</text>
+<rect x="466.3821428571429" y="203.50285714285712" width="35.49" height="15.934285714285716" rx="7.967142857142858" fill="#FFFFFF" stroke="#000000" stroke-width="0.5432142857142858"/>
+<text x="484.12714285714287" y="207.48642857142855" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="5.7942857142857145" font-weight="700" fill="#000000">START/</text>
+<text x="484.12714285714287" y="215.45357142857142" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="5.7942857142857145" font-weight="700" fill="#000000">STOP</text>
+<rect x="53.90142857142857" y="234.64714285714288" width="111.17785714285714" height="203.16214285714287" rx="0.7242857142857143" fill="#FFFFFF" stroke="#000000" stroke-width="0.7242857142857143"/>
+<rect x="70.56" y="249.85714285714286" width="33.67928571428572" height="16.65857142857143" rx="8.329285714285716" fill="#FFFFFF" stroke="#000000" stroke-width="0.5432142857142858"/>
+<text x="87.39964285714285" y="258.18642857142856" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="6.51857142857143" font-weight="700" fill="#000000">FX</text>
+<rect x="70.19785714285715" y="278.10428571428577" width="34.041428571428575" height="17.745" rx="8.8725" fill="#FFFFFF" stroke="#000000" stroke-width="0.5432142857142858"/>
+<text x="87.21857142857144" y="286.97678571428577" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="5.7942857142857145" font-weight="700" fill="#000000">TRACK</text>
+<rect x="120.53571428571429" y="244.425" width="35.127857142857145" height="98.50285714285715" rx="0.0" fill="#FFFFFF" stroke="#000000" stroke-width="0.7242857142857143"/>
+<rect x="135.7457142857143" y="246.96" width="2.8971428571428572" height="93.43285714285715" rx="0.36214285714285716" fill="#000000" stroke="#000000" stroke-width="0.36214285714285716"/>
+<rect x="123.43285714285715" y="250.21928571428572" width="28.247142857142858" height="9.053571428571429" rx="0.7242857142857143" fill="#FFFFFF" stroke="#000000" stroke-width="1.0864285714285715"/>
+<polyline points="125.96785714285716,254.565 149.50714285714287,254.565" fill="none" stroke="#000000" stroke-width="0.7242857142857143" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="87.21857142857144" y="303.6353571428572" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="3.621428571428572" font-weight="400" fill="#000000">CLEAR: HOLD</text>
+<ellipse cx="87.21857142857144" cy="329.1664285714285" rx="16.65857142857143" ry="16.65857142857143" fill="#FFFFFF" stroke="#000000" stroke-width="0.6156428571428572"/>
+<rect x="82.87285714285716" y="324.4585714285715" width="9.415714285714285" height="9.415714285714285" rx="0.0" fill="#000000" stroke="none" stroke-width="0.0"/>
+<text x="72.00857142857144" y="351.61928571428575" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="9.415714285714285" font-weight="700" fill="#000000">1</text>
+<ellipse cx="111.48214285714286" cy="391.09285714285716" rx="44.54357142857143" ry="44.54357142857143" fill="#FFFFFF" stroke="#000000" stroke-width="1.0864285714285715"/>
+<ellipse cx="111.48214285714286" cy="391.09285714285716" rx="38.025" ry="38.025" fill="#FFFFFF" stroke="#000000" stroke-width="0.7242857142857143"/>
+<ellipse cx="111.48214285714286" cy="391.0928571428572" rx="31.868571428571432" ry="31.868571428571432" fill="#FFFFFF" stroke="#000000" stroke-width="1.0864285714285715"/>
+<ellipse cx="111.48214285714286" cy="391.09285714285716" rx="19.555714285714288" ry="19.555714285714288" fill="#FFFFFF" stroke="#000000" stroke-width="1.0864285714285715"/>
+<text x="111.48214285714286" y="390.9117857142857" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="9.777857142857144" font-weight="700" fill="#000000">▶ / ●</text>
+<rect x="164.8982142857143" y="234.64714285714288" width="111.17785714285714" height="203.16214285714287" rx="0.7242857142857143" fill="#FFFFFF" stroke="#000000" stroke-width="0.7242857142857143"/>
+<rect x="181.55678571428572" y="249.85714285714286" width="33.67928571428572" height="16.65857142857143" rx="8.329285714285716" fill="#FFFFFF" stroke="#000000" stroke-width="0.5432142857142858"/>
+<text x="198.39642857142857" y="258.18642857142856" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="6.51857142857143" font-weight="700" fill="#000000">FX</text>
+<rect x="181.19464285714287" y="278.10428571428577" width="34.041428571428575" height="17.745" rx="8.8725" fill="#FFFFFF" stroke="#000000" stroke-width="0.5432142857142858"/>
+<text x="198.2153571428572" y="286.97678571428577" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="5.7942857142857145" font-weight="700" fill="#000000">TRACK</text>
+<rect x="231.5325" y="244.425" width="35.127857142857145" height="98.50285714285715" rx="0.0" fill="#FFFFFF" stroke="#000000" stroke-width="0.7242857142857143"/>
+<rect x="246.7425" y="246.96" width="2.8971428571428572" height="93.43285714285715" rx="0.36214285714285716" fill="#000000" stroke="#000000" stroke-width="0.36214285714285716"/>
+<rect x="234.42964285714288" y="250.21928571428572" width="28.247142857142858" height="9.053571428571429" rx="0.7242857142857143" fill="#FFFFFF" stroke="#000000" stroke-width="1.0864285714285715"/>
+<polyline points="236.96464285714288,254.565 260.50392857142856,254.565" fill="none" stroke="#000000" stroke-width="0.7242857142857143" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="198.21535714285716" y="303.6353571428572" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="3.621428571428572" font-weight="400" fill="#000000">CLEAR: HOLD</text>
+<ellipse cx="198.21535714285716" cy="329.1664285714285" rx="16.65857142857143" ry="16.65857142857143" fill="#FFFFFF" stroke="#000000" stroke-width="0.6156428571428572"/>
+<rect x="193.86964285714288" y="324.4585714285715" width="9.415714285714285" height="9.415714285714285" rx="0.0" fill="#000000" stroke="none" stroke-width="0.0"/>
+<text x="183.00535714285715" y="351.61928571428575" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="9.415714285714285" font-weight="700" fill="#000000">2</text>
+<ellipse cx="222.47892857142858" cy="391.09285714285716" rx="44.54357142857143" ry="44.54357142857143" fill="#FFFFFF" stroke="#000000" stroke-width="1.0864285714285715"/>
+<ellipse cx="222.4789285714286" cy="391.09285714285716" rx="38.025" ry="38.025" fill="#FFFFFF" stroke="#000000" stroke-width="0.7242857142857143"/>
+<ellipse cx="222.4789285714286" cy="391.0928571428572" rx="31.868571428571432" ry="31.868571428571432" fill="#FFFFFF" stroke="#000000" stroke-width="1.0864285714285715"/>
+<ellipse cx="222.47892857142858" cy="391.09285714285716" rx="19.555714285714288" ry="19.555714285714288" fill="#FFFFFF" stroke="#000000" stroke-width="1.0864285714285715"/>
+<text x="222.47892857142858" y="390.9117857142857" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="9.777857142857144" font-weight="700" fill="#000000">▶ / ●</text>
+<rect x="275.895" y="234.64714285714288" width="111.17785714285714" height="203.16214285714287" rx="0.7242857142857143" fill="#FFFFFF" stroke="#000000" stroke-width="0.7242857142857143"/>
+<rect x="292.55357142857144" y="249.85714285714286" width="33.67928571428572" height="16.65857142857143" rx="8.329285714285716" fill="#FFFFFF" stroke="#000000" stroke-width="0.5432142857142858"/>
+<text x="309.3932142857143" y="258.18642857142856" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="6.51857142857143" font-weight="700" fill="#000000">FX</text>
+<rect x="292.1914285714286" y="278.10428571428577" width="34.041428571428575" height="17.745" rx="8.8725" fill="#FFFFFF" stroke="#000000" stroke-width="0.5432142857142858"/>
+<text x="309.21214285714285" y="286.97678571428577" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="5.7942857142857145" font-weight="700" fill="#000000">TRACK</text>
+<rect x="342.5292857142857" y="244.425" width="35.127857142857145" height="98.50285714285715" rx="0.0" fill="#FFFFFF" stroke="#000000" stroke-width="0.7242857142857143"/>
+<rect x="357.73928571428576" y="246.96" width="2.8971428571428572" height="93.43285714285715" rx="0.36214285714285716" fill="#000000" stroke="#000000" stroke-width="0.36214285714285716"/>
+<rect x="345.4264285714286" y="250.21928571428572" width="28.247142857142858" height="9.053571428571429" rx="0.7242857142857143" fill="#FFFFFF" stroke="#000000" stroke-width="1.0864285714285715"/>
+<polyline points="347.9614285714286,254.565 371.5007142857143,254.565" fill="none" stroke="#000000" stroke-width="0.7242857142857143" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="309.2121428571429" y="303.6353571428572" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="3.621428571428572" font-weight="400" fill="#000000">CLEAR: HOLD</text>
+<ellipse cx="309.21214285714285" cy="329.1664285714285" rx="16.65857142857143" ry="16.65857142857143" fill="#FFFFFF" stroke="#000000" stroke-width="0.6156428571428572"/>
+<rect x="304.8664285714286" y="324.4585714285715" width="9.415714285714285" height="9.415714285714285" rx="0.0" fill="#000000" stroke="none" stroke-width="0.0"/>
+<text x="294.00214285714287" y="351.61928571428575" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="9.415714285714285" font-weight="700" fill="#000000">3</text>
+<ellipse cx="333.47571428571433" cy="391.09285714285716" rx="44.54357142857143" ry="44.54357142857143" fill="#FFFFFF" stroke="#000000" stroke-width="1.0864285714285715"/>
+<ellipse cx="333.4757142857143" cy="391.09285714285716" rx="38.025" ry="38.025" fill="#FFFFFF" stroke="#000000" stroke-width="0.7242857142857143"/>
+<ellipse cx="333.47571428571433" cy="391.0928571428572" rx="31.868571428571432" ry="31.868571428571432" fill="#FFFFFF" stroke="#000000" stroke-width="1.0864285714285715"/>
+<ellipse cx="333.4757142857143" cy="391.09285714285716" rx="19.555714285714288" ry="19.555714285714288" fill="#FFFFFF" stroke="#000000" stroke-width="1.0864285714285715"/>
+<text x="333.4757142857143" y="390.9117857142857" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="9.777857142857144" font-weight="700" fill="#000000">▶ / ●</text>
+<rect x="386.89178571428573" y="234.64714285714288" width="111.17785714285714" height="203.16214285714287" rx="0.7242857142857143" fill="#FFFFFF" stroke="#000000" stroke-width="0.7242857142857143"/>
+<rect x="403.55035714285714" y="249.85714285714286" width="33.67928571428572" height="16.65857142857143" rx="8.329285714285716" fill="#FFFFFF" stroke="#000000" stroke-width="0.5432142857142858"/>
+<text x="420.39" y="258.18642857142856" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="6.51857142857143" font-weight="700" fill="#000000">FX</text>
+<rect x="403.1882142857143" y="278.10428571428577" width="34.041428571428575" height="17.745" rx="8.8725" fill="#FFFFFF" stroke="#000000" stroke-width="0.5432142857142858"/>
+<text x="420.2089285714286" y="286.97678571428577" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="5.7942857142857145" font-weight="700" fill="#000000">TRACK</text>
+<rect x="453.52607142857147" y="244.425" width="35.127857142857145" height="98.50285714285715" rx="0.0" fill="#FFFFFF" stroke="#000000" stroke-width="0.7242857142857143"/>
+<rect x="468.73607142857145" y="246.96" width="2.8971428571428572" height="93.43285714285715" rx="0.36214285714285716" fill="#000000" stroke="#000000" stroke-width="0.36214285714285716"/>
+<rect x="456.42321428571427" y="250.21928571428572" width="28.247142857142858" height="9.053571428571429" rx="0.7242857142857143" fill="#FFFFFF" stroke="#000000" stroke-width="1.0864285714285715"/>
+<polyline points="458.9582142857143,254.565 482.4975,254.565" fill="none" stroke="#000000" stroke-width="0.7242857142857143" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="420.2089285714286" y="303.6353571428572" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="3.621428571428572" font-weight="400" fill="#000000">CLEAR: HOLD</text>
+<ellipse cx="420.20892857142854" cy="329.1664285714285" rx="16.65857142857143" ry="16.65857142857143" fill="#FFFFFF" stroke="#000000" stroke-width="0.6156428571428572"/>
+<rect x="415.8632142857143" y="324.4585714285715" width="9.415714285714285" height="9.415714285714285" rx="0.0" fill="#000000" stroke="none" stroke-width="0.0"/>
+<text x="404.9989285714286" y="351.61928571428575" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="9.415714285714285" font-weight="700" fill="#000000">4</text>
+<ellipse cx="444.4725000000001" cy="391.09285714285716" rx="44.54357142857143" ry="44.54357142857143" fill="#FFFFFF" stroke="#000000" stroke-width="1.0864285714285715"/>
+<ellipse cx="444.47249999999997" cy="391.09285714285716" rx="38.025" ry="38.025" fill="#FFFFFF" stroke="#000000" stroke-width="0.7242857142857143"/>
+<ellipse cx="444.4725" cy="391.0928571428572" rx="31.868571428571432" ry="31.868571428571432" fill="#FFFFFF" stroke="#000000" stroke-width="1.0864285714285715"/>
+<ellipse cx="444.4725000000001" cy="391.09285714285716" rx="19.555714285714288" ry="19.555714285714288" fill="#FFFFFF" stroke="#000000" stroke-width="1.0864285714285715"/>
+<text x="444.4725000000001" y="390.9117857142857" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="9.777857142857144" font-weight="700" fill="#000000">▶ / ●</text>
+<rect x="497.8885714285715" y="234.64714285714288" width="111.17785714285714" height="203.16214285714287" rx="0.7242857142857143" fill="#FFFFFF" stroke="#000000" stroke-width="0.7242857142857143"/>
+<rect x="514.547142857143" y="249.85714285714286" width="33.67928571428572" height="16.65857142857143" rx="8.329285714285716" fill="#FFFFFF" stroke="#000000" stroke-width="0.5432142857142858"/>
+<text x="531.3867857142859" y="258.18642857142856" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="6.51857142857143" font-weight="700" fill="#000000">FX</text>
+<rect x="514.185" y="278.10428571428577" width="34.041428571428575" height="17.745" rx="8.8725" fill="#FFFFFF" stroke="#000000" stroke-width="0.5432142857142858"/>
+<text x="531.2057142857143" y="286.97678571428577" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="5.7942857142857145" font-weight="700" fill="#000000">TRACK</text>
+<rect x="564.5228571428572" y="244.425" width="35.127857142857145" height="98.50285714285715" rx="0.0" fill="#FFFFFF" stroke="#000000" stroke-width="0.7242857142857143"/>
+<rect x="579.7328571428573" y="246.96" width="2.8971428571428572" height="93.43285714285715" rx="0.36214285714285716" fill="#000000" stroke="#000000" stroke-width="0.36214285714285716"/>
+<rect x="567.4200000000001" y="250.21928571428572" width="28.247142857142858" height="9.053571428571429" rx="0.7242857142857143" fill="#FFFFFF" stroke="#000000" stroke-width="1.0864285714285715"/>
+<polyline points="569.955,254.565 593.4942857142858,254.565" fill="none" stroke="#000000" stroke-width="0.7242857142857143" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="531.2057142857142" y="303.6353571428572" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="3.621428571428572" font-weight="400" fill="#000000">CLEAR: HOLD</text>
+<ellipse cx="531.2057142857144" cy="329.1664285714285" rx="16.65857142857143" ry="16.65857142857143" fill="#FFFFFF" stroke="#000000" stroke-width="0.6156428571428572"/>
+<rect x="526.86" y="324.4585714285715" width="9.415714285714285" height="9.415714285714285" rx="0.0" fill="#000000" stroke="none" stroke-width="0.0"/>
+<text x="515.9957142857144" y="351.61928571428575" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="9.415714285714285" font-weight="700" fill="#000000">5</text>
+<ellipse cx="555.4692857142857" cy="391.09285714285716" rx="44.54357142857143" ry="44.54357142857143" fill="#FFFFFF" stroke="#000000" stroke-width="1.0864285714285715"/>
+<ellipse cx="555.4692857142858" cy="391.09285714285716" rx="38.025" ry="38.025" fill="#FFFFFF" stroke="#000000" stroke-width="0.7242857142857143"/>
+<ellipse cx="555.4692857142857" cy="391.0928571428572" rx="31.868571428571432" ry="31.868571428571432" fill="#FFFFFF" stroke="#000000" stroke-width="1.0864285714285715"/>
+<ellipse cx="555.4692857142858" cy="391.09285714285716" rx="19.555714285714288" ry="19.555714285714288" fill="#FFFFFF" stroke="#000000" stroke-width="1.0864285714285715"/>
+<text x="555.4692857142858" y="390.9117857142857" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="9.777857142857144" font-weight="700" fill="#000000">▶ / ●</text>
+<text x="334.2" y="457.6714285714286" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#000000">top</text>
+<text x="905.5625" y="113.00892857142857" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="12.814285714285713" font-weight="700" fill="#000000">RC-505mkII LOOP STATION</text>
+<rect x="700.0" y="148.24821428571428" width="55.528571428571425" height="24.02678571428571" rx="12.013392857142856" fill="#FFFFFF" stroke="#000000" stroke-width="0.8008928571428571"/>
+<text x="716.81875" y="160.26160714285714" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="9.610714285714286" font-weight="700" fill="#000000">MENU</text>
+<ellipse cx="743.5151785714286" cy="160.26160714285714" rx="10.945535714285713" ry="10.945535714285713" fill="#FFFFFF" stroke="#000000" stroke-width="0.5339285714285714"/>
+<rect x="700.0" y="187.225" width="55.528571428571425" height="22.958928571428572" rx="11.479464285714286" fill="#FFFFFF" stroke="#000000" stroke-width="0.8008928571428571"/>
+<text x="717.3526785714286" y="198.70446428571427" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="9.610714285714286" font-weight="700" fill="#000000">LOOP</text>
+<ellipse cx="744.0491071428572" cy="198.7044642857143" rx="10.411607142857143" ry="10.411607142857143" fill="#FFFFFF" stroke="#000000" stroke-width="0.5339285714285714"/>
+<rect x="774.2160714285715" y="140.2392857142857" width="158.5767857142857" height="73.14821428571429" rx="0.0" fill="#FFFFFF" stroke="#000000" stroke-width="1.6017857142857141"/>
+<rect x="793.4375" y="145.04464285714286" width="119.6" height="63.537499999999994" rx="0.0" fill="#FFFFFF" stroke="#000000" stroke-width="1.0678571428571428"/>
+<text x="962.1589285714285" y="138.6375" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="8.008928571428571" font-weight="400" fill="#000000">EXIT</text>
+<ellipse cx="962.1589285714285" cy="159.99464285714285" rx="9.076785714285714" ry="9.076785714285714" fill="#FFFFFF" stroke="#000000" stroke-width="0.9076785714285713"/>
+<text x="962.1589285714286" y="178.41517857142856" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="11.746428571428572" font-weight="400" fill="#000000">◀</text>
+<ellipse cx="962.1589285714285" cy="197.9035714285714" rx="9.076785714285714" ry="9.076785714285714" fill="#FFFFFF" stroke="#000000" stroke-width="0.9076785714285713"/>
+<text x="1007.5428571428572" y="138.6375" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="8.008928571428571" font-weight="400" fill="#000000">ENTER</text>
+<ellipse cx="1007.5428571428572" cy="159.99464285714285" rx="9.076785714285714" ry="9.076785714285714" fill="#FFFFFF" stroke="#000000" stroke-width="0.9076785714285713"/>
+<text x="1007.5428571428572" y="178.41517857142856" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="11.746428571428572" font-weight="400" fill="#000000">▶</text>
+<ellipse cx="1007.5428571428572" cy="197.9035714285714" rx="9.076785714285714" ry="9.076785714285714" fill="#FFFFFF" stroke="#000000" stroke-width="0.9076785714285713"/>
+<ellipse cx="1074.817857142857" cy="149.85000000000002" rx="25.09464285714286" ry="25.09464285714286" fill="#FFFFFF" stroke="#000000" stroke-width="1.0678571428571428"/>
+<ellipse cx="1074.8178571428573" cy="149.85" rx="21.357142857142858" ry="21.357142857142858" fill="#FFFFFF" stroke="#000000" stroke-width="1.0678571428571428"/>
+<polyline points="1074.817857142857,143.32539285714284 1074.817857142857,134.29132142857142" fill="none" stroke="#000000" stroke-width="2.1357142857142857" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="1044.3839285714284" y="118.61517857142857" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="6.941071428571428" font-weight="700" fill="#000000">OUTPUT</text>
+<text x="1044.3839285714284" y="127.69196428571428" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="6.941071428571428" font-weight="700" fill="#000000">LEVEL</text>
+<ellipse cx="768.3428571428572" cy="249.69464285714284" rx="22.958928571428572" ry="22.958928571428572" fill="#FFFFFF" stroke="#000000" stroke-width="1.6017857142857141"/>
+<ellipse cx="768.3428571428572" cy="249.69464285714284" rx="17.619642857142857" ry="17.619642857142857" fill="#000000" stroke="#000000" stroke-width="1.0678571428571428"/>
+<text x="768.3428571428572" y="279.5946428571429" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="9.076785714285714" font-weight="700" fill="#000000">1</text>
+<ellipse cx="824.9392857142857" cy="249.69464285714284" rx="22.958928571428572" ry="22.958928571428572" fill="#FFFFFF" stroke="#000000" stroke-width="1.6017857142857141"/>
+<ellipse cx="824.9392857142857" cy="249.69464285714284" rx="17.619642857142857" ry="17.619642857142857" fill="#000000" stroke="#000000" stroke-width="1.0678571428571428"/>
+<text x="824.9392857142857" y="279.5946428571429" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="9.076785714285714" font-weight="700" fill="#000000">2</text>
+<ellipse cx="881.0017857142858" cy="249.69464285714284" rx="22.958928571428572" ry="22.958928571428572" fill="#FFFFFF" stroke="#000000" stroke-width="1.6017857142857141"/>
+<ellipse cx="881.0017857142857" cy="249.69464285714284" rx="17.619642857142857" ry="17.619642857142857" fill="#000000" stroke="#000000" stroke-width="1.0678571428571428"/>
+<text x="881.0017857142858" y="279.5946428571429" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="9.076785714285714" font-weight="700" fill="#000000">3</text>
+<ellipse cx="937.5982142857143" cy="249.69464285714284" rx="22.958928571428572" ry="22.958928571428572" fill="#FFFFFF" stroke="#000000" stroke-width="1.6017857142857141"/>
+<ellipse cx="937.5982142857142" cy="249.69464285714284" rx="17.619642857142857" ry="17.619642857142857" fill="#000000" stroke="#000000" stroke-width="1.0678571428571428"/>
+<text x="937.5982142857143" y="279.5946428571429" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="9.076785714285714" font-weight="700" fill="#000000">4</text>
+<text x="900.4901785714286" y="305.5017857142857" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#000000">central-controls-zoom</text>
+<rect x="30.0" y="510.0" width="208.28" height="203.2" rx="2.54" fill="#FFFFFF" stroke="#000000" stroke-width="1.27"/>
+<text x="68.1" y="664.305" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="8.89" font-weight="700" fill="#000000">DC IN</text>
+<text x="125.25" y="664.305" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="8.89" font-weight="700" fill="#000000">POWER</text>
+<text x="186.21" y="664.305" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="8.89" font-weight="700" fill="#000000">USB</text>
+<ellipse cx="68.1" cy="591.2800000000001" rx="12.7" ry="12.7" fill="#FFFFFF" stroke="#000000" stroke-width="2.54"/>
+<ellipse cx="68.1" cy="591.28" rx="3.81" ry="3.81" fill="#000000" stroke="none" stroke-width="0.0"/>
+<rect x="111.28" y="574.77" width="27.94" height="43.18" rx="2.54" fill="#FFFFFF" stroke="#000000" stroke-width="2.54"/>
+<rect x="169.7" y="579.85" width="33.02" height="34.29" rx="5.08" fill="#FFFFFF" stroke="#000000" stroke-width="2.54"/>
+<rect x="177.32" y="587.47" width="17.78" height="19.05" rx="0.0" fill="#FFFFFF" stroke="#000000" stroke-width="1.27"/>
+<rect x="238.28" y="510.0" width="147.32" height="203.2" rx="2.54" fill="#FFFFFF" stroke="#000000" stroke-width="1.27"/>
+<text x="277.65000000000003" y="565.88" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="8.89" font-weight="700" fill="#000000">MIDI OUT</text>
+<ellipse cx="277.65" cy="623.0300000000001" rx="21.59" ry="21.59" fill="#FFFFFF" stroke="#000000" stroke-width="2.54"/>
+<ellipse cx="288.01352262806233" cy="616.045" rx="1.905" ry="1.905" fill="#000000" stroke="none" stroke-width="0.0"/>
+<ellipse cx="283.365" cy="611.3964773719376" rx="1.905" ry="1.905" fill="#000000" stroke="none" stroke-width="0.0"/>
+<ellipse cx="277.015" cy="609.6949999999999" rx="1.905" ry="1.905" fill="#000000" stroke="none" stroke-width="0.0"/>
+<ellipse cx="270.66499999999996" cy="611.3964773719376" rx="1.905" ry="1.905" fill="#000000" stroke="none" stroke-width="0.0"/>
+<ellipse cx="266.0164773719376" cy="616.045" rx="1.905" ry="1.905" fill="#000000" stroke="none" stroke-width="0.0"/>
+<text x="341.15" y="565.88" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="8.89" font-weight="700" fill="#000000">MIDI IN</text>
+<ellipse cx="341.15" cy="623.0300000000001" rx="21.59" ry="21.59" fill="#FFFFFF" stroke="#000000" stroke-width="2.54"/>
+<ellipse cx="351.51352262806233" cy="616.045" rx="1.905" ry="1.905" fill="#000000" stroke="none" stroke-width="0.0"/>
+<ellipse cx="346.86499999999995" cy="611.3964773719376" rx="1.905" ry="1.905" fill="#000000" stroke="none" stroke-width="0.0"/>
+<ellipse cx="340.515" cy="609.6949999999999" rx="1.905" ry="1.905" fill="#000000" stroke="none" stroke-width="0.0"/>
+<ellipse cx="334.16499999999996" cy="611.3964773719376" rx="1.905" ry="1.905" fill="#000000" stroke="none" stroke-width="0.0"/>
+<ellipse cx="329.51647737193764" cy="616.045" rx="1.905" ry="1.905" fill="#000000" stroke="none" stroke-width="0.0"/>
+<rect x="385.6" y="510.0" width="85.09" height="203.2" rx="2.54" fill="#FFFFFF" stroke="#000000" stroke-width="1.27"/>
+<text x="428.145" y="568.42" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="7.62" font-weight="400" fill="#000000">CTL1,2 / EXP1</text>
+<ellipse cx="430.05" cy="592.5500000000001" rx="12.7" ry="12.7" fill="#FFFFFF" stroke="#000000" stroke-width="2.54"/>
+<text x="428.145" y="623.03" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="7.62" font-weight="400" fill="#000000">CTL3,4 / EXP2</text>
+<ellipse cx="430.05" cy="647.1600000000001" rx="12.7" ry="12.7" fill="#FFFFFF" stroke="#000000" stroke-width="2.54"/>
+<rect x="470.69" y="510.0" width="223.52" height="203.2" rx="2.54" fill="#FFFFFF" stroke="#000000" stroke-width="1.27"/>
+<ellipse cx="493.55" cy="592.5500000000001" rx="12.7" ry="12.7" fill="#FFFFFF" stroke="#000000" stroke-width="2.54"/>
+<text x="494.185" y="623.03" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="7.62" font-weight="400" fill="#000000">PHONES</text>
+<text x="544.3500000000001" y="563.34" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="10.16" font-weight="700" fill="#000000">SUB2</text>
+<ellipse cx="544.3500000000001" cy="592.5500000000001" rx="12.7" ry="12.7" fill="#FFFFFF" stroke="#000000" stroke-width="2.54"/>
+<text x="544.35" y="615.41" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="7.62" font-weight="400" fill="#000000">L/MONO</text>
+<ellipse cx="544.3500000000001" cy="647.1600000000001" rx="12.7" ry="12.7" fill="#FFFFFF" stroke="#000000" stroke-width="2.54"/>
+<text x="544.35" y="670.02" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="7.62" font-weight="400" fill="#000000">R</text>
+<text x="601.5000000000001" y="563.34" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="10.16" font-weight="700" fill="#000000">SUB1</text>
+<ellipse cx="601.5" cy="592.5500000000001" rx="12.7" ry="12.7" fill="#FFFFFF" stroke="#000000" stroke-width="2.54"/>
+<text x="601.5" y="615.41" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="7.62" font-weight="400" fill="#000000">L/MONO</text>
+<ellipse cx="601.5" cy="647.1600000000001" rx="12.7" ry="12.7" fill="#FFFFFF" stroke="#000000" stroke-width="2.54"/>
+<text x="601.5" y="670.02" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="7.62" font-weight="400" fill="#000000">R</text>
+<text x="658.6500000000001" y="563.34" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="10.16" font-weight="700" fill="#000000">MAIN</text>
+<ellipse cx="658.6500000000001" cy="592.5500000000001" rx="12.7" ry="12.7" fill="#FFFFFF" stroke="#000000" stroke-width="2.54"/>
+<text x="658.65" y="615.41" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="7.62" font-weight="400" fill="#000000">L/MONO</text>
+<ellipse cx="658.6500000000001" cy="647.1600000000001" rx="12.7" ry="12.7" fill="#FFFFFF" stroke="#000000" stroke-width="2.54"/>
+<text x="658.65" y="670.02" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="7.62" font-weight="400" fill="#000000">R</text>
+<rect x="694.21" y="510.0" width="252.73" height="203.2" rx="2.54" fill="#FFFFFF" stroke="#000000" stroke-width="1.27"/>
+<text x="764.0600000000001" y="563.34" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="10.16" font-weight="700" fill="#000000">INST2</text>
+<ellipse cx="734.85" cy="592.5500000000001" rx="12.7" ry="12.7" fill="#FFFFFF" stroke="#000000" stroke-width="2.54"/>
+<text x="734.85" y="619.22" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="7.62" font-weight="400" fill="#000000">R</text>
+<ellipse cx="792.0" cy="592.5500000000001" rx="12.7" ry="12.7" fill="#FFFFFF" stroke="#000000" stroke-width="2.54"/>
+<text x="792.0000000000001" y="619.22" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="7.62" font-weight="400" fill="#000000">L/MONO</text>
+<text x="878.36" y="563.34" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="10.16" font-weight="700" fill="#000000">INST1</text>
+<ellipse cx="849.1500000000001" cy="592.5500000000001" rx="12.7" ry="12.7" fill="#FFFFFF" stroke="#000000" stroke-width="2.54"/>
+<text x="849.1500000000001" y="619.22" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="7.62" font-weight="400" fill="#000000">R</text>
+<ellipse cx="906.3000000000001" cy="592.5500000000001" rx="12.7" ry="12.7" fill="#FFFFFF" stroke="#000000" stroke-width="2.54"/>
+<text x="906.3000000000001" y="619.22" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="7.62" font-weight="400" fill="#000000">L/MONO</text>
+<rect x="946.94" y="510.0" width="226.06" height="203.2" rx="2.54" fill="#FFFFFF" stroke="#000000" stroke-width="1.27"/>
+<text x="1001.5500000000001" y="564.61" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="11.43" font-weight="700" fill="#000000">MIC2</text>
+<ellipse cx="1001.5500000000001" cy="623.03" rx="30.48" ry="30.48" fill="#FFFFFF" stroke="#000000" stroke-width="2.54"/>
+<ellipse cx="990.12" cy="621.76" rx="3.81" ry="3.81" fill="#FFFFFF" stroke="#000000" stroke-width="1.27"/>
+<ellipse cx="1012.9799999999999" cy="621.76" rx="3.81" ry="3.81" fill="#FFFFFF" stroke="#000000" stroke-width="1.27"/>
+<ellipse cx="1001.55" cy="637.0" rx="3.81" ry="3.81" fill="#FFFFFF" stroke="#000000" stroke-width="1.27"/>
+<text x="1103.15" y="564.61" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="11.43" font-weight="700" fill="#000000">MIC1</text>
+<ellipse cx="1103.15" cy="623.03" rx="30.48" ry="30.48" fill="#FFFFFF" stroke="#000000" stroke-width="2.54"/>
+<ellipse cx="1091.72" cy="621.76" rx="3.81" ry="3.81" fill="#FFFFFF" stroke="#000000" stroke-width="1.27"/>
+<ellipse cx="1114.58" cy="621.76" rx="3.81" ry="3.81" fill="#FFFFFF" stroke="#000000" stroke-width="1.27"/>
+<ellipse cx="1103.1499999999999" cy="637.0" rx="3.81" ry="3.81" fill="#FFFFFF" stroke="#000000" stroke-width="1.27"/>
+<text x="601.5" y="732.7" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#000000">rear</text>
+<ellipse cx="85.71428571428572" cy="852.9857142857143" rx="45.12857142857143" ry="45.12857142857143" fill="#FFFFFF" stroke="#000000" stroke-width="1.1142857142857143"/>
+<ellipse cx="85.71428571428572" cy="852.9857142857143" rx="41.228571428571435" ry="41.228571428571435" fill="#FFFFFF" stroke="#000000" stroke-width="1.1142857142857143"/>
+<polyline points="85.71428571428572,841.2522857142857 85.71428571428571,825.006" fill="none" stroke="#000000" stroke-width="2.2285714285714286" stroke-linecap="round" stroke-linejoin="round"/>
+<ellipse cx="175.41428571428574" cy="878.0571428571428" rx="12.257142857142858" ry="12.257142857142858" fill="#FFFFFF" stroke="#000000" stroke-width="0.9471428571428571"/>
+<text x="175.4142857142857" y="854.1" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="6.685714285714285" font-weight="400" fill="#000000">EDIT</text>
+<text x="140.03571428571428" y="903.6857142857143" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="9.471428571428572" font-weight="700" fill="#000000">INPUT FX</text>
+<text x="166.77857142857144" y="796.9928571428571" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="14.485714285714284" font-weight="700" fill="#000000">BOSS</text>
+<ellipse cx="46.15714285714286" cy="932.6571428571428" rx="13.37142857142857" ry="13.37142857142857" fill="#FFFFFF" stroke="#000000" stroke-width="0.9471428571428571"/>
+<text x="46.15714285714286" y="932.6571428571428" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="12.814285714285715" font-weight="700" fill="#000000">A</text>
+<ellipse cx="89.6142857142857" cy="932.6571428571428" rx="13.37142857142857" ry="13.37142857142857" fill="#FFFFFF" stroke="#000000" stroke-width="0.9471428571428571"/>
+<text x="89.6142857142857" y="932.6571428571428" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="12.814285714285715" font-weight="700" fill="#000000">B</text>
+<ellipse cx="132.51428571428573" cy="932.6571428571428" rx="13.37142857142857" ry="13.37142857142857" fill="#FFFFFF" stroke="#000000" stroke-width="0.9471428571428571"/>
+<text x="132.51428571428573" y="932.6571428571428" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="12.814285714285715" font-weight="700" fill="#000000">C</text>
+<ellipse cx="175.97142857142856" cy="932.6571428571428" rx="13.37142857142857" ry="13.37142857142857" fill="#FFFFFF" stroke="#000000" stroke-width="0.9471428571428571"/>
+<text x="175.97142857142856" y="932.6571428571428" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="12.814285714285715" font-weight="700" fill="#000000">D</text>
+<text x="110.78571428571428" y="967.7571428571429" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#000000">input-fx</text>
+<rect x="230.0" y="810.0" width="63.699999999999996" height="28.6" rx="14.3" fill="#FFFFFF" stroke="#000000" stroke-width="0.9749999999999999"/>
+<text x="261.85" y="817.15" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="8.45" font-weight="700" fill="#000000">ALL</text>
+<text x="261.85" y="831.4499999999999" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="8.45" font-weight="700" fill="#000000">START/STOP</text>
+<rect x="311.25" y="810.0" width="64.35" height="28.6" rx="14.3" fill="#FFFFFF" stroke="#000000" stroke-width="0.9749999999999999"/>
+<text x="343.425" y="817.15" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="10.4" font-weight="700" fill="#000000">UNDO/</text>
+<text x="343.425" y="831.4499999999999" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="10.4" font-weight="700" fill="#000000">REDO</text>
+<text x="302.8" y="858.1" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#000000">global-transport</text>
+<ellipse cx="471.9428571428571" cy="841.9428571428572" rx="31.942857142857147" ry="31.942857142857147" fill="#FFFFFF" stroke="#000000" stroke-width="2.2285714285714286"/>
+<ellipse cx="471.9428571428572" cy="841.9428571428572" rx="24.514285714285716" ry="24.514285714285716" fill="#000000" stroke="#000000" stroke-width="1.4857142857142858"/>
+<text x="471.9428571428571" y="883.5428571428572" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="12.62857142857143" font-weight="700" fill="#000000">1</text>
+<ellipse cx="550.6857142857143" cy="841.9428571428572" rx="31.942857142857147" ry="31.942857142857147" fill="#FFFFFF" stroke="#000000" stroke-width="2.2285714285714286"/>
+<ellipse cx="550.6857142857143" cy="841.9428571428572" rx="24.514285714285716" ry="24.514285714285716" fill="#000000" stroke="#000000" stroke-width="1.4857142857142858"/>
+<text x="550.6857142857143" y="883.5428571428572" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="12.62857142857143" font-weight="700" fill="#000000">2</text>
+<ellipse cx="628.6857142857143" cy="841.9428571428572" rx="31.942857142857147" ry="31.942857142857147" fill="#FFFFFF" stroke="#000000" stroke-width="2.2285714285714286"/>
+<ellipse cx="628.6857142857143" cy="841.9428571428572" rx="24.514285714285716" ry="24.514285714285716" fill="#000000" stroke="#000000" stroke-width="1.4857142857142858"/>
+<text x="628.6857142857143" y="883.5428571428572" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="12.62857142857143" font-weight="700" fill="#000000">3</text>
+<ellipse cx="707.4285714285714" cy="841.9428571428572" rx="31.942857142857147" ry="31.942857142857147" fill="#FFFFFF" stroke="#000000" stroke-width="2.2285714285714286"/>
+<ellipse cx="707.4285714285714" cy="841.9428571428572" rx="24.514285714285716" ry="24.514285714285716" fill="#000000" stroke="#000000" stroke-width="1.4857142857142858"/>
+<text x="707.4285714285714" y="883.5428571428572" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="12.62857142857143" font-weight="700" fill="#000000">4</text>
+<text x="589.6857142857143" y="911.9571428571428" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#000000">encoder-strip</text>
+<ellipse cx="882.3" cy="811.05" rx="11.05" ry="11.05" fill="#FFFFFF" stroke="#000000" stroke-width="1.105"/>
+<text x="914.8" y="810.725" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="9.75" font-weight="400" fill="#000000">EDIT</text>
+<text x="901.1500000000001" y="842.25" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="11.7" font-weight="700" fill="#000000">RHYTHM</text>
+<rect x="790.0" y="861.1" width="63.699999999999996" height="28.6" rx="14.3" fill="#FFFFFF" stroke="#000000" stroke-width="0.9749999999999999"/>
+<text x="821.8499999999999" y="868.25" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="10.4" font-weight="700" fill="#000000">TAP</text>
+<text x="821.8499999999999" y="882.55" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="10.4" font-weight="700" fill="#000000">TEMPO</text>
+<rect x="871.9" y="861.1" width="63.699999999999996" height="28.6" rx="14.3" fill="#FFFFFF" stroke="#000000" stroke-width="0.9749999999999999"/>
+<text x="903.75" y="868.25" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="10.4" font-weight="700" fill="#000000">START/</text>
+<text x="903.75" y="882.55" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="10.4" font-weight="700" fill="#000000">STOP</text>
+<text x="862.8" y="909.2" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#000000">rhythm</text>
+<ellipse cx="1105.3" cy="852.9857142857143" rx="45.12857142857143" ry="45.12857142857143" fill="#FFFFFF" stroke="#000000" stroke-width="1.1142857142857143"/>
+<ellipse cx="1105.3000000000002" cy="852.9857142857143" rx="41.228571428571435" ry="41.228571428571435" fill="#FFFFFF" stroke="#000000" stroke-width="1.1142857142857143"/>
+<polyline points="1105.3,841.2522857142857 1105.3,825.006" fill="none" stroke="#000000" stroke-width="2.2285714285714286" stroke-linecap="round" stroke-linejoin="round"/>
+<ellipse cx="1016.7142857142858" cy="878.0571428571428" rx="12.257142857142858" ry="12.257142857142858" fill="#FFFFFF" stroke="#000000" stroke-width="0.9471428571428571"/>
+<text x="1016.7142857142857" y="854.1" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="6.685714285714285" font-weight="400" fill="#000000">EDIT</text>
+<text x="1050.4214285714286" y="903.6857142857143" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="9.471428571428572" font-weight="700" fill="#000000">TRACK FX</text>
+<ellipse cx="1016.7142857142858" cy="932.6571428571428" rx="13.37142857142857" ry="13.37142857142857" fill="#FFFFFF" stroke="#000000" stroke-width="0.9471428571428571"/>
+<text x="1016.7142857142858" y="932.6571428571428" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="12.814285714285715" font-weight="700" fill="#000000">A</text>
+<ellipse cx="1059.6142857142859" cy="932.6571428571428" rx="13.37142857142857" ry="13.37142857142857" fill="#FFFFFF" stroke="#000000" stroke-width="0.9471428571428571"/>
+<text x="1059.6142857142859" y="932.6571428571428" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="12.814285714285715" font-weight="700" fill="#000000">B</text>
+<ellipse cx="1102.5142857142857" cy="932.6571428571428" rx="13.37142857142857" ry="13.37142857142857" fill="#FFFFFF" stroke="#000000" stroke-width="0.9471428571428571"/>
+<text x="1102.5142857142857" y="932.6571428571428" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="12.814285714285715" font-weight="700" fill="#000000">C</text>
+<ellipse cx="1145.9714285714285" cy="932.6571428571428" rx="13.37142857142857" ry="13.37142857142857" fill="#FFFFFF" stroke="#000000" stroke-width="0.9471428571428571"/>
+<text x="1145.9714285714285" y="932.6571428571428" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="12.814285714285715" font-weight="700" fill="#000000">D</text>
+<text x="1081.0642857142857" y="967.7571428571429" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#000000">track-fx</text>
+</svg>

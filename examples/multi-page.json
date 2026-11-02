@@ -1,0 +1,29 @@
+{
+  "title": "EXAMPLE pages - synthetic",
+  "layout": {"columns": 2, "cell_width": 320, "cell_height": 220},
+  "pages": [
+    {
+      "title": "Example controls",
+      "steps": [
+        {"id": "first", "resource": "menu-button", "title": "Example input", "at": [50, 100], "size": [260, 180]},
+        {"id": "second", "resource": "selector-knob", "title": "Example selector", "at": [490, 290], "size": [220, 220]}
+      ],
+      "edges": [{"from": "first", "to": "second", "label": "Next", "points": [[400, 190], [400, 400]]}]
+    },
+    {
+      "title": "Example result",
+      "layout": {"columns": 1, "cell_width": 560, "cell_height": 340},
+      "steps": [
+        {
+          "id": "result",
+          "title": "Synthetic result",
+          "screen": {
+            "title": "EXAMPLE",
+            "fields": [{"label": "LEVEL", "value": "42"}, {"label": "MODE", "value": "ON"}],
+            "selected": 1
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="540" height="194" viewBox="-4 -4 548 202">
+<rect x="0" y="0" width="540" height="194" rx="0" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<ellipse cx="19.5" cy="21.5" rx="11.5" ry="11.5" fill="#FFFFFF" stroke="#000000" stroke-width="1"/>
+<text x="19.5" y="21.5" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#000000">1</text>
+<text x="100.0" y="22.0" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#000000">PRESS</text>
+<rect x="45.33571428571428" y="60.0" width="89.32857142857144" height="38.651785714285715" rx="19.325892857142858" fill="#FFFFFF" stroke="#000000" stroke-width="1.2883928571428571"/>
+<text x="72.39196428571428" y="79.32589285714286" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15.460714285714287" font-weight="700" fill="#000000">MENU</text>
+<ellipse cx="115.33839285714285" cy="79.32589285714286" rx="17.608035714285712" ry="17.608035714285712" fill="#FFFFFF" stroke="#000000" stroke-width="0.8589285714285715"/>
+<ellipse cx="115.33839285714285" cy="79.32589285714286" rx="17.608035714285712" ry="17.608035714285712" fill="none" stroke="#000000" stroke-width="2"/>
+<text x="90.0" y="165.0" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" fill="#000000">MENU</text>
+<polyline points="151,100 176,100" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="176,100 166.8691105968769,104.0776045305957 166.8691105968769,95.9223954694043" fill="#000000"/>
+<ellipse cx="199.5" cy="21.5" rx="11.5" ry="11.5" fill="#FFFFFF" stroke="#000000" stroke-width="1"/>
+<text x="199.5" y="21.5" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#000000">2</text>
+<text x="280.0" y="22.0" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#000000">PRESS</text>
+<ellipse cx="270.0" cy="92.94107142857143" rx="32.941071428571426" ry="32.941071428571426" fill="#FFFFFF" stroke="#000000" stroke-width="2.2982142857142853"/>
+<ellipse cx="270.0" cy="92.94107142857143" rx="25.28035714285714" ry="25.28035714285714" fill="#000000" stroke="#000000" stroke-width="1.532142857142857"/>
+<ellipse cx="270.0" cy="92.94107142857143" rx="37.941071428571426" ry="37.941071428571426" fill="none" stroke="#000000" stroke-width="2"/>
+<text x="270.0" y="154.5" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" fill="#000000">Knob below</text>
+<text x="270.0" y="175.5" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" fill="#000000">MIXER</text>
+<polyline points="331,100 356,100" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="356,100 346.8691105968769,104.0776045305957 346.8691105968769,95.9223954694043" fill="#000000"/>
+<ellipse cx="379.5" cy="21.5" rx="11.5" ry="11.5" fill="#FFFFFF" stroke="#000000" stroke-width="1"/>
+<text x="379.5" y="21.5" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#000000">3</text>
+<text x="460.0" y="22.0" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#000000">PRESS</text>
+<text x="450.0" y="71.89732142857143" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="20.939285714285713" font-weight="400" fill="#000000">▶</text>
+<ellipse cx="450.0" cy="108.54107142857144" rx="16.180357142857144" ry="16.180357142857144" fill="#FFFFFF" stroke="#000000" stroke-width="1.618035714285714"/>
+<ellipse cx="450.0" cy="108.54107142857144" rx="21.180357142857144" ry="21.180357142857144" fill="none" stroke="#000000" stroke-width="2"/>
+<text x="450.0" y="154.5" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" fill="#000000">PAGE right to</text>
+<text x="450.0" y="175.5" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" fill="#000000">the last page</text>
+</svg>

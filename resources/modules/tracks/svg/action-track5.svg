@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="350" height="184" viewBox="-4 -4 358 192">
+<rect x="0" y="0" width="350" height="184" rx="0" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="28.21785714285714" y="28.957142857142856" width="51.49857142857143" height="26.845" rx="13.4225" fill="#FFFFFF" stroke="#000000" stroke-width="0.8217857142857142"/>
+<text x="53.96714285714285" y="42.379642857142855" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="8.765714285714285" font-weight="700" fill="#000000">TRACK</text>
+<text x="53.96714285714286" y="67.58107142857142" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="5.478571428571429" font-weight="400" fill="#000000">CLEAR: HOLD</text>
+<ellipse cx="53.96714285714286" cy="106.20499999999998" rx="25.201428571428572" ry="25.201428571428572" fill="#FFFFFF" stroke="#000000" stroke-width="0.9313571428571428"/>
+<rect x="47.39285714285714" y="99.08285714285715" width="14.244285714285713" height="14.244285714285713" rx="0.0" fill="#000000" stroke="none" stroke-width="0.0"/>
+<text x="30.957142857142856" y="140.17214285714286" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="14.244285714285713" font-weight="700" fill="#000000">5</text>
+<rect x="23.21785714285714" y="23.957142857142856" width="61.49857142857143" height="36.845" rx="18.4225" fill="none" stroke="#000000" stroke-width="2"/>
+<text x="235.5" y="35.0" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" fill="#000000">TRACK 5</text>
+<text x="235.5" y="73.5" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#000000">PRESS TRACK</text>
+<text x="235.5" y="103.0" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="400" fill="#000000">once</text>
+<polyline points="148,133 88.71642857142857,42.379642857142855" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="88.71642857142857,42.379642857142855 97.12746267610734,47.788386268502876 90.30289759422813,52.25299669662908" fill="#000000"/>
+</svg>

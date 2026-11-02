@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="116" height="160" viewBox="-4 -4 124 168">
+<rect x="0" y="0" width="116" height="160" rx="2" fill="#FFFFFF" stroke="#000000" stroke-width="1"/>
+<text x="31.0" y="44.0" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="7" font-weight="700" fill="#000000">MIDI OUT</text>
+<ellipse cx="31.0" cy="89.0" rx="17.0" ry="17.0" fill="#FFFFFF" stroke="#000000" stroke-width="2"/>
+<ellipse cx="39.16025403784439" cy="83.5" rx="1.5" ry="1.5" fill="#000000" stroke="none" stroke-width="0"/>
+<ellipse cx="35.5" cy="79.83974596215562" rx="1.5" ry="1.5" fill="#000000" stroke="none" stroke-width="0"/>
+<ellipse cx="30.5" cy="78.5" rx="1.5" ry="1.5" fill="#000000" stroke="none" stroke-width="0"/>
+<ellipse cx="25.5" cy="79.8397459621556" rx="1.5" ry="1.5" fill="#000000" stroke="none" stroke-width="0"/>
+<ellipse cx="21.83974596215561" cy="83.5" rx="1.5" ry="1.5" fill="#000000" stroke="none" stroke-width="0"/>
+<text x="81.0" y="44.0" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="7" font-weight="700" fill="#000000">MIDI IN</text>
+<ellipse cx="81.0" cy="89.0" rx="17.0" ry="17.0" fill="#FFFFFF" stroke="#000000" stroke-width="2"/>
+<ellipse cx="89.16025403784438" cy="83.5" rx="1.5" ry="1.5" fill="#000000" stroke="none" stroke-width="0"/>
+<ellipse cx="85.5" cy="79.83974596215562" rx="1.5" ry="1.5" fill="#000000" stroke="none" stroke-width="0"/>
+<ellipse cx="80.5" cy="78.5" rx="1.5" ry="1.5" fill="#000000" stroke="none" stroke-width="0"/>
+<ellipse cx="75.5" cy="79.8397459621556" rx="1.5" ry="1.5" fill="#000000" stroke="none" stroke-width="0"/>
+<ellipse cx="71.83974596215562" cy="83.5" rx="1.5" ry="1.5" fill="#000000" stroke="none" stroke-width="0"/>
+</svg>

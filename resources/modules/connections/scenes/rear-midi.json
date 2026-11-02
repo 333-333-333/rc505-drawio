@@ -1,0 +1,162 @@
+{
+  "title": "MIDI",
+  "w": 116,
+  "h": 160,
+  "parts": [
+    {
+      "kind": "rect",
+      "x": 0,
+      "y": 0,
+      "w": 116,
+      "h": 160,
+      "fill": "#FFFFFF",
+      "stroke": "#000000",
+      "radius": 2,
+      "sw": 1
+    },
+    {
+      "kind": "text",
+      "text": "MIDI OUT",
+      "x": 9,
+      "y": 37.0,
+      "w": 44,
+      "h": 14.0,
+      "size": 7,
+      "color": "#000000",
+      "bold": true,
+      "align": "center"
+    },
+    {
+      "kind": "ellipse",
+      "x": 14,
+      "y": 72,
+      "w": 34,
+      "h": 34,
+      "fill": "#FFFFFF",
+      "stroke": "#000000",
+      "sw": 2
+    },
+    {
+      "kind": "ellipse",
+      "x": 37.66025403784439,
+      "y": 82.0,
+      "w": 3,
+      "h": 3,
+      "fill": "#000000",
+      "stroke": "none",
+      "sw": 0
+    },
+    {
+      "kind": "ellipse",
+      "x": 34.0,
+      "y": 78.33974596215562,
+      "w": 3,
+      "h": 3,
+      "fill": "#000000",
+      "stroke": "none",
+      "sw": 0
+    },
+    {
+      "kind": "ellipse",
+      "x": 29.0,
+      "y": 77.0,
+      "w": 3,
+      "h": 3,
+      "fill": "#000000",
+      "stroke": "none",
+      "sw": 0
+    },
+    {
+      "kind": "ellipse",
+      "x": 24.0,
+      "y": 78.3397459621556,
+      "w": 3,
+      "h": 3,
+      "fill": "#000000",
+      "stroke": "none",
+      "sw": 0
+    },
+    {
+      "kind": "ellipse",
+      "x": 20.33974596215561,
+      "y": 82.0,
+      "w": 3,
+      "h": 3,
+      "fill": "#000000",
+      "stroke": "none",
+      "sw": 0
+    },
+    {
+      "kind": "text",
+      "text": "MIDI IN",
+      "x": 59,
+      "y": 37.0,
+      "w": 44,
+      "h": 14.0,
+      "size": 7,
+      "color": "#000000",
+      "bold": true,
+      "align": "center"
+    },
+    {
+      "kind": "ellipse",
+      "x": 64,
+      "y": 72,
+      "w": 34,
+      "h": 34,
+      "fill": "#FFFFFF",
+      "stroke": "#000000",
+      "sw": 2
+    },
+    {
+      "kind": "ellipse",
+      "x": 87.66025403784438,
+      "y": 82.0,
+      "w": 3,
+      "h": 3,
+      "fill": "#000000",
+      "stroke": "none",
+      "sw": 0
+    },
+    {
+      "kind": "ellipse",
+      "x": 84.0,
+      "y": 78.33974596215562,
+      "w": 3,
+      "h": 3,
+      "fill": "#000000",
+      "stroke": "none",
+      "sw": 0
+    },
+    {
+      "kind": "ellipse",
+      "x": 79.0,
+      "y": 77.0,
+      "w": 3,
+      "h": 3,
+      "fill": "#000000",
+      "stroke": "none",
+      "sw": 0
+    },
+    {
+      "kind": "ellipse",
+      "x": 74.0,
+      "y": 78.3397459621556,
+      "w": 3,
+      "h": 3,
+      "fill": "#000000",
+      "stroke": "none",
+      "sw": 0
+    },
+    {
+      "kind": "ellipse",
+      "x": 70.33974596215562,
+      "y": 82.0,
+      "w": 3,
+      "h": 3,
+      "fill": "#000000",
+      "stroke": "none",
+      "sw": 0
+    }
+  ]
+}

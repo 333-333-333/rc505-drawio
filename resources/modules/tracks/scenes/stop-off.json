@@ -1,0 +1,63 @@
+{
+  "title": "STOP  · off",
+  "w": 150,
+  "h": 116,
+  "parts": [
+    {
+      "kind": "ellipse",
+      "x": 44.0,
+      "y": 10,
+      "w": 62,
+      "h": 62,
+      "fill": "#FFFFFF",
+      "stroke": "#000000",
+      "sw": 1.5
+    },
+    {
+      "kind": "ellipse",
+      "x": 48.0,
+      "y": 14,
+      "w": 54,
+      "h": 54,
+      "fill": "none",
+      "stroke": "#000000",
+      "sw": 1,
+      "led": true
+    },
+    {
+      "kind": "rect",
+      "x": 66,
+      "y": 32,
+      "w": 18,
+      "h": 18,
+      "fill": "#000000",
+      "stroke": "none",
+      "radius": 0,
+      "sw": 0
+    },
+    {
+      "kind": "text",
+      "text": "CLEAR: HOLD",
+      "x": 23,
+      "y": 77.0,
+      "w": 104,
+      "h": 15.0,
+      "size": 9,
+      "color": "#000000",
+      "bold": false,
+      "align": "center"
+    },
+    {
+      "kind": "text",
+      "text": "OFF",
+      "x": 2,
+      "y": 96.0,
+      "w": 146,
+      "h": 16.0,
+      "size": 10,
+      "color": "#000000",
+      "bold": true,
+      "align": "center"
+    }
+  ]
+}

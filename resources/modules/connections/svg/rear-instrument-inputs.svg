@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="199" height="160" viewBox="-4 -4 207 168">
+<rect x="0" y="0" width="199" height="160" rx="2" fill="#FFFFFF" stroke="#000000" stroke-width="1"/>
+<text x="55.0" y="42.0" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="8" font-weight="700" fill="#000000">INST2</text>
+<ellipse cx="32.0" cy="65.0" rx="10.0" ry="10.0" fill="#FFFFFF" stroke="#000000" stroke-width="2"/>
+<text x="32.0" y="86.0" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="6" font-weight="400" fill="#000000">R</text>
+<ellipse cx="77.0" cy="65.0" rx="10.0" ry="10.0" fill="#FFFFFF" stroke="#000000" stroke-width="2"/>
+<text x="77.0" y="86.0" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="6" font-weight="400" fill="#000000">L/MONO</text>
+<text x="145.0" y="42.0" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="8" font-weight="700" fill="#000000">INST1</text>
+<ellipse cx="122.0" cy="65.0" rx="10.0" ry="10.0" fill="#FFFFFF" stroke="#000000" stroke-width="2"/>
+<text x="122.0" y="86.0" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="6" font-weight="400" fill="#000000">R</text>
+<ellipse cx="167.0" cy="65.0" rx="10.0" ry="10.0" fill="#FFFFFF" stroke="#000000" stroke-width="2"/>
+<text x="167.0" y="86.0" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="6" font-weight="400" fill="#000000">L/MONO</text>
+</svg>

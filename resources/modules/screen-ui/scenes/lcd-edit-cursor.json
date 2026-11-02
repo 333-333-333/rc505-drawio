@@ -1,0 +1,30 @@
+{
+  "title": "LCD edit cursor",
+  "w": 60,
+  "h": 32,
+  "parts": [
+    {
+      "kind": "rect",
+      "x": 0,
+      "y": 0,
+      "w": 60,
+      "h": 32,
+      "fill": "#000000",
+      "stroke": "#000000",
+      "radius": 0,
+      "sw": 0
+    },
+    {
+      "kind": "text",
+      "text": "▶",
+      "x": 0,
+      "y": 0.0,
+      "w": 60,
+      "h": 32.0,
+      "size": 23,
+      "color": "#FFFFFF",
+      "bold": true,
+      "align": "center"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "title": "CTL and EXP",
+  "w": 67,
+  "h": 160,
+  "parts": [
+    {
+      "kind": "rect",
+      "x": 0,
+      "y": 0,
+      "w": 67,
+      "h": 160,
+      "fill": "#FFFFFF",
+      "stroke": "#000000",
+      "radius": 2,
+      "sw": 1
+    },
+    {
+      "kind": "text",
+      "text": "CTL1,2 / EXP1",
+      "x": 5,
+      "y": 40.0,
+      "w": 57,
+      "h": 12.0,
+      "size": 6,
+      "color": "#000000",
+      "bold": false,
+      "align": "center"
+    },
+    {
+      "kind": "ellipse",
+      "x": 25,
+      "y": 55,
+      "w": 20,
+      "h": 20,
+      "fill": "#FFFFFF",
+      "stroke": "#000000",
+      "sw": 2
+    },
+    {
+      "kind": "text",
+      "text": "CTL3,4 / EXP2",
+      "x": 5,
+      "y": 83.0,
+      "w": 57,
+      "h": 12.0,
+      "size": 6,
+      "color": "#000000",
+      "bold": false,
+      "align": "center"
+    },
+    {
+      "kind": "ellipse",
+      "x": 25,
+      "y": 98,
+      "w": 20,
+      "h": 20,
+      "fill": "#FFFFFF",
+      "stroke": "#000000",
+      "sw": 2
+    }
+  ]
+}

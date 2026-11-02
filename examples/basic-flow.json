@@ -1,0 +1,20 @@
+{
+  "title": "EXAMPLE flow - synthetic",
+  "layout": {"columns": 2, "cell_width": 320, "cell_height": 220},
+  "steps": [
+    {
+      "id": "first",
+      "resource": "menu-button",
+      "title": "1. Example control",
+      "caption": "Synthetic label replacement.",
+      "text": {"MENU": "DEMO"}
+    },
+    {
+      "id": "second",
+      "resource": "selector-knob",
+      "title": "2. Example selector",
+      "caption": "Demonstration only."
+    }
+  ],
+  "edges": [{"from": "first", "to": "second", "label": "Next"}]
+}

@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="160" viewBox="-4 -4 908 168">
+<rect x="0" y="0" width="164" height="160" rx="2" fill="#FFFFFF" stroke="#000000" stroke-width="1"/>
+<text x="30.0" y="121.5" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="7" font-weight="700" fill="#000000">DC IN</text>
+<text x="75.0" y="121.5" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="7" font-weight="700" fill="#000000">POWER</text>
+<text x="123.0" y="121.5" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="7" font-weight="700" fill="#000000">USB</text>
+<ellipse cx="30.0" cy="64.0" rx="10.0" ry="10.0" fill="#FFFFFF" stroke="#000000" stroke-width="2"/>
+<ellipse cx="30.0" cy="64.0" rx="3.0" ry="3.0" fill="#000000" stroke="none" stroke-width="0"/>
+<rect x="64" y="51" width="22" height="34" rx="2" fill="#FFFFFF" stroke="#000000" stroke-width="2"/>
+<rect x="110" y="55" width="26" height="27" rx="4" fill="#FFFFFF" stroke="#000000" stroke-width="2"/>
+<rect x="116" y="61" width="14" height="15" rx="0" fill="#FFFFFF" stroke="#000000" stroke-width="1"/>
+<rect x="164" y="0" width="116" height="160" rx="2" fill="#FFFFFF" stroke="#000000" stroke-width="1"/>
+<text x="195.0" y="44.0" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="7" font-weight="700" fill="#000000">MIDI OUT</text>
+<ellipse cx="195.0" cy="89.0" rx="17.0" ry="17.0" fill="#FFFFFF" stroke="#000000" stroke-width="2"/>
+<ellipse cx="203.1602540378444" cy="83.5" rx="1.5" ry="1.5" fill="#000000" stroke="none" stroke-width="0"/>
+<ellipse cx="199.5" cy="79.83974596215562" rx="1.5" ry="1.5" fill="#000000" stroke="none" stroke-width="0"/>
+<ellipse cx="194.5" cy="78.5" rx="1.5" ry="1.5" fill="#000000" stroke="none" stroke-width="0"/>
+<ellipse cx="189.5" cy="79.8397459621556" rx="1.5" ry="1.5" fill="#000000" stroke="none" stroke-width="0"/>
+<ellipse cx="185.8397459621556" cy="83.5" rx="1.5" ry="1.5" fill="#000000" stroke="none" stroke-width="0"/>
+<text x="245.0" y="44.0" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="7" font-weight="700" fill="#000000">MIDI IN</text>
+<ellipse cx="245.0" cy="89.0" rx="17.0" ry="17.0" fill="#FFFFFF" stroke="#000000" stroke-width="2"/>
+<ellipse cx="253.16025403784437" cy="83.5" rx="1.5" ry="1.5" fill="#000000" stroke="none" stroke-width="0"/>
+<ellipse cx="249.5" cy="79.83974596215562" rx="1.5" ry="1.5" fill="#000000" stroke="none" stroke-width="0"/>
+<ellipse cx="244.5" cy="78.5" rx="1.5" ry="1.5" fill="#000000" stroke="none" stroke-width="0"/>
+<ellipse cx="239.5" cy="79.8397459621556" rx="1.5" ry="1.5" fill="#000000" stroke="none" stroke-width="0"/>
+<ellipse cx="235.83974596215563" cy="83.5" rx="1.5" ry="1.5" fill="#000000" stroke="none" stroke-width="0"/>
+<rect x="280" y="0" width="67" height="160" rx="2" fill="#FFFFFF" stroke="#000000" stroke-width="1"/>
+<text x="313.5" y="46.0" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="6" font-weight="400" fill="#000000">CTL1,2 / EXP1</text>
+<ellipse cx="315.0" cy="65.0" rx="10.0" ry="10.0" fill="#FFFFFF" stroke="#000000" stroke-width="2"/>
+<text x="313.5" y="89.0" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="6" font-weight="400" fill="#000000">CTL3,4 / EXP2</text>
+<ellipse cx="315.0" cy="108.0" rx="10.0" ry="10.0" fill="#FFFFFF" stroke="#000000" stroke-width="2"/>
+<rect x="347" y="0" width="176" height="160" rx="2" fill="#FFFFFF" stroke="#000000" stroke-width="1"/>
+<ellipse cx="365.0" cy="65.0" rx="10.0" ry="10.0" fill="#FFFFFF" stroke="#000000" stroke-width="2"/>
+<text x="365.5" y="89.0" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="6" font-weight="400" fill="#000000">PHONES</text>
+<text x="405.0" y="42.0" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="8" font-weight="700" fill="#000000">SUB2</text>
+<ellipse cx="405.0" cy="65.0" rx="10.0" ry="10.0" fill="#FFFFFF" stroke="#000000" stroke-width="2"/>
+<text x="405.0" y="83.0" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="6" font-weight="400" fill="#000000">L/MONO</text>
+<ellipse cx="405.0" cy="108.0" rx="10.0" ry="10.0" fill="#FFFFFF" stroke="#000000" stroke-width="2"/>
+<text x="405.0" y="126.0" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="6" font-weight="400" fill="#000000">R</text>
+<text x="450.0" y="42.0" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="8" font-weight="700" fill="#000000">SUB1</text>
+<ellipse cx="450.0" cy="65.0" rx="10.0" ry="10.0" fill="#FFFFFF" stroke="#000000" stroke-width="2"/>
+<text x="450.0" y="83.0" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="6" font-weight="400" fill="#000000">L/MONO</text>
+<ellipse cx="450.0" cy="108.0" rx="10.0" ry="10.0" fill="#FFFFFF" stroke="#000000" stroke-width="2"/>
+<text x="450.0" y="126.0" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="6" font-weight="400" fill="#000000">R</text>
+<text x="495.0" y="42.0" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="8" font-weight="700" fill="#000000">MAIN</text>
+<ellipse cx="495.0" cy="65.0" rx="10.0" ry="10.0" fill="#FFFFFF" stroke="#000000" stroke-width="2"/>
+<text x="495.0" y="83.0" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="6" font-weight="400" fill="#000000">L/MONO</text>
+<ellipse cx="495.0" cy="108.0" rx="10.0" ry="10.0" fill="#FFFFFF" stroke="#000000" stroke-width="2"/>
+<text x="495.0" y="126.0" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="6" font-weight="400" fill="#000000">R</text>
+<rect x="523" y="0" width="199" height="160" rx="2" fill="#FFFFFF" stroke="#000000" stroke-width="1"/>
+<text x="578.0" y="42.0" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="8" font-weight="700" fill="#000000">INST2</text>
+<ellipse cx="555.0" cy="65.0" rx="10.0" ry="10.0" fill="#FFFFFF" stroke="#000000" stroke-width="2"/>
+<text x="555.0" y="86.0" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="6" font-weight="400" fill="#000000">R</text>
+<ellipse cx="600.0" cy="65.0" rx="10.0" ry="10.0" fill="#FFFFFF" stroke="#000000" stroke-width="2"/>
+<text x="600.0" y="86.0" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="6" font-weight="400" fill="#000000">L/MONO</text>
+<text x="668.0" y="42.0" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="8" font-weight="700" fill="#000000">INST1</text>
+<ellipse cx="645.0" cy="65.0" rx="10.0" ry="10.0" fill="#FFFFFF" stroke="#000000" stroke-width="2"/>
+<text x="645.0" y="86.0" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="6" font-weight="400" fill="#000000">R</text>
+<ellipse cx="690.0" cy="65.0" rx="10.0" ry="10.0" fill="#FFFFFF" stroke="#000000" stroke-width="2"/>
+<text x="690.0" y="86.0" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="6" font-weight="400" fill="#000000">L/MONO</text>
+<rect x="722" y="0" width="178" height="160" rx="2" fill="#FFFFFF" stroke="#000000" stroke-width="1"/>
+<text x="765.0" y="43.0" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" fill="#000000">MIC2</text>
+<ellipse cx="765.0" cy="89.0" rx="24.0" ry="24.0" fill="#FFFFFF" stroke="#000000" stroke-width="2"/>
+<ellipse cx="756.0" cy="88.0" rx="3.0" ry="3.0" fill="#FFFFFF" stroke="#000000" stroke-width="1"/>
+<ellipse cx="774.0" cy="88.0" rx="3.0" ry="3.0" fill="#FFFFFF" stroke="#000000" stroke-width="1"/>
+<ellipse cx="765.0" cy="100.0" rx="3.0" ry="3.0" fill="#FFFFFF" stroke="#000000" stroke-width="1"/>
+<text x="845.0" y="43.0" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" fill="#000000">MIC1</text>
+<ellipse cx="845.0" cy="89.0" rx="24.0" ry="24.0" fill="#FFFFFF" stroke="#000000" stroke-width="2"/>
+<ellipse cx="836.0" cy="88.0" rx="3.0" ry="3.0" fill="#FFFFFF" stroke="#000000" stroke-width="1"/>
+<ellipse cx="854.0" cy="88.0" rx="3.0" ry="3.0" fill="#FFFFFF" stroke="#000000" stroke-width="1"/>
+<ellipse cx="845.0" cy="100.0" rx="3.0" ry="3.0" fill="#FFFFFF" stroke="#000000" stroke-width="1"/>
+</svg>

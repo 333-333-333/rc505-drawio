@@ -1,0 +1,42 @@
+{
+  "title": "STOP",
+  "w": 150,
+  "h": 132,
+  "parts": [
+    {
+      "kind": "rect",
+      "x": 25,
+      "y": 35,
+      "w": 100,
+      "h": 48,
+      "fill": "#FFFFFF",
+      "stroke": "#000000",
+      "radius": 6,
+      "sw": 1.5
+    },
+    {
+      "kind": "text",
+      "text": "STOP",
+      "x": 25,
+      "y": 35.0,
+      "w": 100,
+      "h": 48.0,
+      "size": 15,
+      "color": "#000000",
+      "bold": true,
+      "align": "center"
+    },
+    {
+      "kind": "text",
+      "text": "STOP",
+      "x": 0,
+      "y": 111.0,
+      "w": 150,
+      "h": 20.0,
+      "size": 10,
+      "color": "#000000",
+      "bold": true,
+      "align": "center"
+    }
+  ]
+}
