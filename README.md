@@ -4,8 +4,51 @@ Editable RC-505mkII resources for draw.io / diagrams.net, plus a Python script
 that builds diagrams from JSON. Use complete panels, individual sections,
 controls or LED variants. The generator accepts any compatible resource catalog;
 its layout and rendering logic contain no preset-specific workflow.
+A separate JSON-to-LaTeX generator creates illustrated tutorials using a shared
+monochrome template.
 
-## Quick start
+## Open a library in draw.io
+
+1. Save the [complete library XML](resources/library.xml) to your computer,
+   or choose a section library from the table below.
+2. Open a diagram in draw.io / diagrams.net and choose
+   **File > Open Library from > Device**.
+3. Select the downloaded `library.xml`. The library appears in the left panel;
+   drag its elements onto the canvas.
+
+For a local checkout, the complete file is `resources/library.xml` and section
+libraries are under `resources/modules/<module>/library.xml`.
+The [official draw.io guide](https://www.drawio.com/docs/manual/advanced/custom-shape-libraries/)
+describes this import process.
+
+| Module library | Resources |
+| --- | ---: |
+| [Display and navigation](resources/modules/display-navigation/library.xml) | 10 |
+| [Tracks](resources/modules/tracks/library.xml) | 12 |
+| [Complete device](resources/modules/device/library.xml) | 3 |
+| [Input FX section](resources/modules/input-fx/library.xml) | 1 |
+| [Track FX section](resources/modules/track-fx/library.xml) | 2 |
+| [Global controls](resources/modules/global-controls/library.xml) | 4 |
+| [Rhythm](resources/modules/rhythm/library.xml) | 1 |
+| [Connections](resources/modules/connections/library.xml) | 20 |
+| [Screen elements](resources/modules/screen-ui/library.xml) | 16 |
+| [Gestures](resources/modules/gestures/library.xml) | 9 |
+| [Generic interface elements](resources/modules/general-ui/library.xml) | 15 |
+| [FX buttons](resources/modules/fx-buttons/library.xml) | 16 |
+
+There are 109 resources across 12 modules. [Open the catalog](resources/catalog.drawio)
+to browse their shapes together.
+
+List the catalog's resource identifiers before referencing one in JSON:
+
+```sh
+python3 scripts/generate_diagram.py --list-resources
+python3 scripts/generate_diagram.py --list-resources --module display-navigation
+```
+
+`--module` filters this list by the exact module name, such as `display-navigation`.
+
+## Generate a diagram from JSON
 
 Requires **Python 3.9 or later**. The generator uses the Python standard library;
 there are no packages to install or API keys to configure.
@@ -30,39 +73,6 @@ Without `-o`, the output uses the specification's name and folder:
 python3 scripts/generate_diagram.py examples/custom-screen.json
 # Creates examples/custom-screen.drawio
 ```
-
-## Use the libraries directly
-
-In draw.io, choose **File > Open Library from > Device** and select a library
-XML file. Drag individual resources onto the canvas. Load the
-[complete library](resources/library.xml), or choose a module below.
-
-| Module library | Resources |
-| --- | ---: |
-| [Display and navigation](resources/modules/display-navigation/library.xml) | 10 |
-| [Tracks](resources/modules/tracks/library.xml) | 12 |
-| [Complete device](resources/modules/device/library.xml) | 3 |
-| [Input FX section](resources/modules/input-fx/library.xml) | 1 |
-| [Track FX section](resources/modules/track-fx/library.xml) | 2 |
-| [Global controls](resources/modules/global-controls/library.xml) | 4 |
-| [Rhythm](resources/modules/rhythm/library.xml) | 1 |
-| [Connections](resources/modules/connections/library.xml) | 20 |
-| [Screen elements](resources/modules/screen-ui/library.xml) | 14 |
-| [Gestures](resources/modules/gestures/library.xml) | 9 |
-| [Generic interface elements](resources/modules/general-ui/library.xml) | 15 |
-| [FX buttons](resources/modules/fx-buttons/library.xml) | 16 |
-
-There are 107 resources across 12 modules. [Open the catalog](resources/catalog.drawio)
-to browse their shapes together.
-
-List the catalog's resource identifiers before referencing one in JSON:
-
-```sh
-python3 scripts/generate_diagram.py --list-resources
-python3 scripts/generate_diagram.py --list-resources --module display-navigation
-```
-
-`--module` filters this list by the exact module name, such as `display-navigation`.
 
 ## Write a specification
 
@@ -176,6 +186,84 @@ without saving the diagram. An output path cannot overwrite its input JSON.
 
 Validation constructs the same XML as generation. Review the
 opened diagram for suitable spacing, readable labels and the intended workflow.
+
+## Generate a LaTeX tutorial
+
+The [tutorial generator](scripts/generate_tutorial.py) uses a separate JSON content
+format and the shared [LaTeX template](templates/tutorial.tex). It contains no
+device settings or preset-specific procedure. It uses only the Python standard
+library, just like the diagram generator.
+
+```sh
+python3 scripts/generate_tutorial.py examples/tutorial.json --output output/tutorial
+python3 scripts/generate_tutorial.py examples/tutorial.json --output output/tutorial --pdf
+```
+
+The first command creates `main.tex`; `--pdf` also creates `main.pdf` using
+`pdflatex`. Figures are copied into `images/`, so the output folder is a
+self-contained LaTeX project. Edit the JSON for content and
+`templates/tutorial.tex` for layout. Regeneration replaces `main.tex` and the
+referenced images; preserve manual source edits before rebuilding.
+
+### Tutorial content format
+
+Start with [the text example](examples/tutorial.json). Required top-level fields
+are `title` and a nonempty `pages` array. Optional fields are `author`, `eyebrow`
+and `footer`. Each page needs `title` and nonempty `steps`; it may also contain
+`intro`, `figure`, `notes` and `links`. Steps are numbered continuously.
+
+| Step field | Content |
+| --- | --- |
+| `title` | Required short heading |
+| `action` | Optional `press`, `twist`, `slide`, `connect` or `info`; the current template omits header icons |
+| `route` | Menu labels, rendered with arrows |
+| `access` | Physical-control figure showing how to reach a setting |
+| `paragraphs`, `items` | Arrays of plain-text paragraphs or list items |
+| `walkthrough` | 1–8 panels, each with `action`, optional `result`, `figure` and `screen` |
+| `figure` | Main figure for this step |
+| `table` | `headers` and `rows`, with 1–4 matching columns |
+| `connections` | Abstract `[source, destination]` pairs |
+| `knobs` | Up to four labels for generic rotary controls |
+| `note` | Highlighted text |
+| `links` | Objects containing `label` and a complete HTTP(S) `url` |
+
+Figure objects use `path`, optional `height_mm` (5–100; default 45), `caption`
+and `trim` (`[left, bottom, right, top]` in nonnegative PDF points).
+Paths are relative to the content JSON file. Supported formats are PDF, PNG
+and JPEG. `screen` uses the same figure format. Keep switch states as switches;
+use `knobs` only for rotary controls.
+
+Content is plain text, not Markdown or raw LaTeX. Special characters are
+escaped. The template uses English typography and Latin fonts. Each page entry
+starts a new page, but long content can spill onto additional pages: review the
+rendered PDF and shorten or regroup steps as needed. The template is monochrome;
+use monochrome figures, with color retained only where needed for LED states.
+
+### Render kit elements as tutorial figures
+
+[render_scenes.py](scripts/render_scenes.py) converts the same scene JSON files
+used by the draw.io kit into editable TikZ/LaTeX and vector PDFs. It accepts
+one scene file or a directory of scene files, without searching subdirectories.
+For example, build the assets for the [illustrated example](examples/tutorial-illustrated.json):
+
+```sh
+python3 scripts/render_scenes.py resources/modules/display-navigation/scenes/menu-button.json --output build/figures --pdf
+python3 scripts/render_scenes.py resources/modules/screen-ui/scenes/lcd-on-field.json --output build/figures --pdf
+python3 scripts/generate_tutorial.py examples/tutorial-illustrated.json --output output/illustrated --pdf
+```
+
+Omit `--pdf` to produce only `.tex` files. To render a whole section, replace
+the scene filename with its `scenes/` directory. Imported PDF figures exported
+from draw.io can also be referenced directly; the renderer is optional.
+
+### LaTeX requirements
+
+Generating source needs only Python 3.9+. PDF compilation needs `pdflatex`
+from TeX Live or MacTeX, on `PATH` or at `/Library/TeX/texbin/pdflatex`, plus
+English Babel, Latin Modern, geometry, xcolor, TikZ, tabularx, array, enumitem,
+fancyhdr, graphicx, tcolorbox and hyperref. The scene renderer also uses amssymb.
+Compilation runs twice with shell escape disabled. The scripts do not install
+packages or download resources.
 
 ## Lint and format XML
 

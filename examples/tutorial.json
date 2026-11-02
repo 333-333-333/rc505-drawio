@@ -1,0 +1,49 @@
+{
+  "title": "Workflow tutorial",
+  "author": "Your name",
+  "eyebrow": "Tutorial example",
+  "footer": "Workflow tutorial",
+  "pages": [
+    {
+      "title": "Prepare the workflow",
+      "intro": "Replace these sample instructions with your own procedure.",
+      "steps": [
+        {
+          "title": "Connect the components",
+          "action": "connect",
+          "connections": [["Source A", "Destination A"], ["Source B", "Destination B"]]
+        },
+        {
+          "title": "Open the required setting",
+          "action": "press",
+          "route": ["Menu", "Section", "Setting"],
+          "walkthrough": [
+            {"action": "Open the menu", "result": "Identify the required section."},
+            {"action": "Select the setting", "result": "Confirm the parameter name."}
+          ],
+          "note": "Add a control close-up and screen reference when adapting this step."
+        }
+      ]
+    },
+    {
+      "title": "Adjust and verify",
+      "steps": [
+        {
+          "title": "Choose the required state",
+          "table": {
+            "headers": ["Parameter", "Target"],
+            "rows": [["Example switch", "ON"], ["Example level", "50%"]]
+          }
+        },
+        {
+          "title": "Check the result",
+          "items": ["Check the displayed state.", "Describe the expected sound or response."],
+          "paragraphs": ["Plain text is escaped automatically: 50% & A_B #1; {braces} and C:\\Samples."],
+          "links": [
+            {"label": "OPEN THE REFERENCE", "url": "https://example.com/~guide/file_name?q=50%25&price=$5&mode=a_b#part_1"}
+          ]
+        }
+      ]
+    }
+  ]
+}
