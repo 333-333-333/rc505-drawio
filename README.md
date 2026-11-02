@@ -177,6 +177,23 @@ without saving the diagram. An output path cannot overwrite its input JSON.
 Validation constructs the same XML as generation. Review the
 opened diagram for suitable spacing, readable labels and the intended workflow.
 
+## Lint and format XML
+
+The linter checks `.xml` and `.drawio` files, including XML models inside the
+JSON payload of shape libraries. It validates unique IDs, cell references and
+finite geometry, then checks canonical two-space formatting.
+
+```sh
+python3 scripts/lint_xml.py --check
+python3 scripts/lint_xml.py --fix
+python3 scripts/lint_xml.py --check output/basic-flow.drawio
+```
+
+With no paths, it checks `resources/`. Pass files or directories to check other
+outputs. Compressed models and image-only library entries are not supported;
+save uncompressed draw.io XML before linting them. This is a structural check,
+not a complete implementation of the draw.io schema.
+
 ## Run the tests
 
 ```sh

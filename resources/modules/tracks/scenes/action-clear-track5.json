@@ -1,5 +1,5 @@
 {
-  "title": "Track 5 · clear",
+  "title": "Track 5 \u00b7 clear",
   "w": 350,
   "h": 184,
   "parts": [
@@ -16,7 +16,7 @@
     },
     {
       "kind": "text",
-      "text": "CLEAR: HOLD",
+      "text": "",
       "x": 30.794642857142854,
       "y": 26.635714285714283,
       "w": 67.64642857142857,
@@ -83,7 +83,7 @@
     },
     {
       "kind": "text",
-      "text": "HOLD STOP",
+      "text": "DOUBLE PRESS STOP",
       "x": 138,
       "y": 61.0,
       "w": 195,
@@ -95,7 +95,7 @@
     },
     {
       "kind": "text",
-      "text": "for at least 2 s",
+      "text": "twice quickly",
       "x": 138,
       "y": 91.0,
       "w": 195,

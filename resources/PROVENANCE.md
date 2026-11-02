@@ -49,7 +49,7 @@ The four-column template `title-schematic-screen-reference` uses explicit `TITLE
 
 ## Physical actions and validation limits
 
-The eight `action-*` resources depict reusable physical operations. Menu routes identify the label below which to press a knob without inventing an unverified selector number. CTL FUNC navigation says to continue until the option appears. Track clearing requires holding that track's STOP button for at least two seconds. Track 5 selection depicts the physical press; custom assignments can alter its behavior.
+The eight `action-*` resources depict reusable physical operations. Menu routes identify the label below which to press a knob without inventing an unverified selector number. CTL FUNC navigation says to continue until the option appears. The clear-track actions depict a quick double-press of that track's STOP button. This uses QUICK CLEAR, enabled under CTL FUNC → PREFERENCE → QUICK CLEAR = ON (Parameter Guide, p. 23). Track 5 selection depicts the physical press; custom assignments can alter its behavior.
 
 Bank selection is sequential: hold the right-hand TRACK FX EDIT until the current bank button turns blue, press C, then press EDIT to finish. It is not an EDIT+C chord. C is blue only in the selection panel; the final LED state is not asserted. These operations were checked against the Owner's Manual, pages 5, 7–8, 11, 14 and 16–17.
 

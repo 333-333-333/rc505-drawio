@@ -281,7 +281,8 @@ def generate(spec, catalog, resource_root):
         model = page_model(page, layout, catalog, resource_root)
         diagram = ET.SubElement(book, 'diagram', id=f'page-{index}', name=page.get('title') or spec.get('title') or f'Page {index}')
         diagram.append(model)
-    return ET.tostring(book, encoding='utf-8', xml_declaration=True)
+    ET.indent(book, space='  ')
+    return ET.tostring(book, encoding='utf-8', xml_declaration=True) + b'\n'
 
 
 def main():
