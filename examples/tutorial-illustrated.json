@@ -1,0 +1,26 @@
+{
+  "title": "Figure layout example",
+  "pages": [
+    {
+      "title": "Controls and screen states",
+      "intro": "These panels demonstrate figure placement. They do not specify a device navigation sequence.",
+      "steps": [
+        {
+          "title": "Place the control and state references",
+          "walkthrough": [
+            {
+              "action": "Control reference",
+              "figure": {"path": "../build/figures/menu-button.pdf", "height_mm": 28},
+              "result": "Use a close-up of the physical control for the action."
+            },
+            {
+              "action": "State reference",
+              "screen": {"path": "../build/figures/lcd-on-field.pdf", "height_mm": 28},
+              "result": "Show the discrete switch state using a switch symbol."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

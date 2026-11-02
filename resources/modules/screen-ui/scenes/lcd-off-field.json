@@ -17,14 +17,35 @@
     {
       "kind": "text",
       "text": "OFF",
-      "x": 0,
+      "x": 2,
       "y": 0.0,
-      "w": 128,
-      "h": 64.0,
-      "size": 27,
+      "w": 124,
+      "h": 18.0,
+      "size": 13,
       "color": "#FFFFFF",
       "bold": true,
       "align": "center"
+    },
+    {
+      "kind": "rect",
+      "x": 56,
+      "y": 23,
+      "w": 16,
+      "h": 38,
+      "fill": "#FFFFFF",
+      "stroke": "#FFFFFF",
+      "radius": 8,
+      "sw": 0
+    },
+    {
+      "kind": "ellipse",
+      "x": 60,
+      "y": 49,
+      "w": 8,
+      "h": 8,
+      "fill": "#000000",
+      "stroke": "#000000",
+      "sw": 0
     }
   ]
 }

@@ -595,6 +595,18 @@
       "path": "modules/screen-ui/scenes/title-schematic-screen-reference.json",
       "module": "screen-ui"
     },
+    "lcd-system-memory-selector-system": {
+      "title": "LCD SYSTEM/MEMORY selector · SYSTEM",
+      "category": "lcd",
+      "path": "modules/screen-ui/scenes/lcd-system-memory-selector-system.json",
+      "module": "screen-ui"
+    },
+    "lcd-system-memory-selector-memory": {
+      "title": "LCD SYSTEM/MEMORY selector · MEMORY",
+      "category": "lcd",
+      "path": "modules/screen-ui/scenes/lcd-system-memory-selector-memory.json",
+      "module": "screen-ui"
+    },
     "action-output-route": {
       "title": "Output preferences route",
       "category": "actions",

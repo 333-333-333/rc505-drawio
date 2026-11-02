@@ -23,9 +23,10 @@
 <polyline points="320,159 332,143" fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
 <text x="320.0" y="218.0" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#FFFFFF">INDICATOR</text>
 <rect x="384" y="54" width="128" height="184" rx="0" fill="#000000" stroke="#000000" stroke-width="0"/>
-<text x="448.0" y="92.0" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#FFFFFF">IMMEDIATE</text>
-<ellipse cx="448.0" cy="159.0" rx="22.0" ry="22.0" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="1"/>
-<polyline points="448,159 460,143" fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="448.0" y="66.0" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#FFFFFF">IMMEDIATE</text>
+<rect x="384" y="103" width="128" height="64" rx="0" fill="#000000" stroke="#000000" stroke-width="0"/>
+<rect x="440" y="107" width="16" height="52" rx="8" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0"/>
+<ellipse cx="448.0" cy="151.0" rx="4.0" ry="4.0" fill="#000000" stroke="#000000" stroke-width="0"/>
 <text x="448.0" y="208.0" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#FFFFFF">FX KNOB</text>
 <text x="448.0" y="228.0" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#FFFFFF">MODE</text>
 </svg>

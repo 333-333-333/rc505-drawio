@@ -1,10 +1,10 @@
 # Resource provenance
 
-These are original editable vector drawings of RC-505mkII controls and reusable diagram elements. The repository contains static scene data, SVGs and native draw.io shapes. It does not include the source photographs, manuals, tutorial content or a preset-specific setup. BOSS and Roland names identify the depicted equipment.
+These are original editable vector drawings of RC-505mkII controls and reusable diagram elements. The repository contains static scene data, SVGs and native draw.io shapes. It does not include the source photographs, manuals, preset-specific tutorial content or a preset-specific setup. BOSS and Roland names identify the depicted equipment.
 
 ## Organization and identifiers
 
-The catalog contains 107 unique resources across 12 modules. Each module has its own `library.xml`, `scenes/` and `svg/`; the root `library.xml` contains all resources. `catalog.drawio` has five category pages: hardware, connections/cables, actions, LED variants and LCD/generic controls.
+The catalog contains 109 unique resources across 12 modules. Each module has its own `library.xml`, `scenes/` and `svg/`; the root `library.xml` contains all resources. `catalog.drawio` has five category pages: hardware, connections/cables, actions, LED variants and LCD/generic controls.
 
 | Module | Resources | Purpose |
 | --- | ---: | --- |
@@ -18,7 +18,7 @@ The catalog contains 107 unique resources across 12 modules. Each module has its
 | `rhythm` | 1 | Rhythm controls |
 | `connections` | 20 | Rear sections, cable edges and connectors |
 | `gestures` | 9 | Press, hold, twist and slide symbols |
-| `screen-ui` | 14 | LCD components, templates and reference screens |
+| `screen-ui` | 16 | LCD components, templates and reference screens |
 | `general-ui` | 15 | Generic controls and indicators |
 
 Named scenes retain their existing stable IDs. Remaining IDs use deterministic title slugs. Content is deduplicated independently of its title; this export has no aliases or slug collisions. The shared `fx-buttons` module avoids duplicating the same A–D geometry in two libraries. Human-readable titles are metadata; references should use catalog IDs.
@@ -45,7 +45,9 @@ LCD resources use a 512 × 256 drawing frame, preserving the 128:64 display aspe
 
 `menu-screen`, `menu-setup-screen`, `setup-screen` and `setup-autooff-screen` reproduce the field labels and example values shown in the Owner's Manual, page 17. Their symbols and rendering are simplified vector references, not pixel-exact firmware screenshots. SETUP values such as `7`, `MEMORY NUMBER`, `POS+STATUS`, `IMMEDIATE`, `ON`, `01` and `99` are manual examples; they do not describe the user's current settings. Page-arrow and selection treatments are schematic.
 
-The four-column template `title-schematic-screen-reference` uses explicit `TITLE`, `LABEL` and `VALUE` placeholders. Separate headers, fields, cursors, menu items and ON/OFF fields support new screens. Preset-specific target values and the tutorial's four-cable setup are excluded.
+The four-column template `title-schematic-screen-reference` uses explicit `TITLE`, `LABEL` and `VALUE` placeholders. Separate headers, fields, cursors, menu items and ON/OFF switches support new screens. SYSTEM/MEMORY selectors are also available in both states. These discrete controls are represented by switches; rotary-knob fields remain separate. Preset-specific target values and the tutorial's four-cable setup are excluded.
+
+The LCD switch is a narrow vertical capsule with a circular marker and its value above it, following the Owner's Manual screen examples on page 17. ON places the marker at the top; OFF places it at the bottom. The SYSTEM/MEMORY variants use the same vertical shape, but their marker positions follow the listed option order as a schematic convention: no direct photograph of a PREFERENCE screen was found to establish that mapping. The printed value identifies the requested state.
 
 ## Physical actions and validation limits
 
