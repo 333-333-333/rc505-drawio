@@ -1,0 +1,71 @@
+{
+  "title": "USB type B",
+  "w": 144,
+  "h": 64,
+  "parts": [
+    {
+      "kind": "line",
+      "points": [
+        [
+          2,
+          25
+        ],
+        [
+          36,
+          25
+        ]
+      ],
+      "color": "#000000",
+      "sw": 5,
+      "arrow": false,
+      "start": false,
+      "dash": false,
+      "label": ""
+    },
+    {
+      "kind": "rect",
+      "x": 36,
+      "y": 13,
+      "w": 48,
+      "h": 24,
+      "fill": "#000000",
+      "stroke": "#000000",
+      "radius": 5,
+      "sw": 2
+    },
+    {
+      "kind": "rect",
+      "x": 84,
+      "y": 10,
+      "w": 31,
+      "h": 31,
+      "fill": "#FFFFFF",
+      "stroke": "#000000",
+      "radius": 6,
+      "sw": 1
+    },
+    {
+      "kind": "rect",
+      "x": 91,
+      "y": 17,
+      "w": 17,
+      "h": 17,
+      "fill": "#FFFFFF",
+      "stroke": "#000000",
+      "radius": 2,
+      "sw": 1
+    },
+    {
+      "kind": "text",
+      "text": "USB type B",
+      "x": 0,
+      "y": 47.0,
+      "w": 144,
+      "h": 17.0,
+      "size": 10,
+      "color": "#000000",
+      "bold": true,
+      "align": "center"
+    }
+  ]
+}

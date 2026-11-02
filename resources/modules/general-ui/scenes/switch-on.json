@@ -1,0 +1,52 @@
+{
+  "title": "Switch ON",
+  "w": 150,
+  "h": 132,
+  "parts": [
+    {
+      "kind": "rect",
+      "x": 31,
+      "y": 37,
+      "w": 88,
+      "h": 36,
+      "fill": "#000000",
+      "stroke": "none",
+      "radius": 18,
+      "sw": 0
+    },
+    {
+      "kind": "ellipse",
+      "x": 85,
+      "y": 41,
+      "w": 28,
+      "h": 28,
+      "fill": "#FFFFFF",
+      "stroke": "none",
+      "sw": 0
+    },
+    {
+      "kind": "text",
+      "text": "ON",
+      "x": 40,
+      "y": 82.0,
+      "w": 70,
+      "h": 20.0,
+      "size": 12,
+      "color": "#000000",
+      "bold": true,
+      "align": "center"
+    },
+    {
+      "kind": "text",
+      "text": "Switch ON",
+      "x": 0,
+      "y": 111.0,
+      "w": 150,
+      "h": 20.0,
+      "size": 10,
+      "color": "#000000",
+      "bold": true,
+      "align": "center"
+    }
+  ]
+}

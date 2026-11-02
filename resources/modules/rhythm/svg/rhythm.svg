@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="104.0" height="64.07142857142857" viewBox="-4 -4 112.0 72.07142857142857">
+<ellipse cx="65.92857142857143" cy="7.892857142857143" rx="7.892857142857143" ry="7.892857142857143" fill="#FFFFFF" stroke="#000000" stroke-width="0.7892857142857143"/>
+<text x="89.14285714285715" y="7.6607142857142865" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="6.964285714285714" font-weight="400" fill="#000000">EDIT</text>
+<text x="79.39285714285714" y="30.17857142857143" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="8.357142857142858" font-weight="700" fill="#000000">RHYTHM</text>
+<rect x="0.0" y="43.642857142857146" width="45.5" height="20.42857142857143" rx="10.214285714285715" fill="#FFFFFF" stroke="#000000" stroke-width="0.6964285714285714"/>
+<text x="22.75" y="48.75" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="7.428571428571429" font-weight="700" fill="#000000">TAP</text>
+<text x="22.75" y="58.96428571428572" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="7.428571428571429" font-weight="700" fill="#000000">TEMPO</text>
+<rect x="58.5" y="43.642857142857146" width="45.5" height="20.42857142857143" rx="10.214285714285715" fill="#FFFFFF" stroke="#000000" stroke-width="0.6964285714285714"/>
+<text x="81.25" y="48.75" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="7.428571428571429" font-weight="700" fill="#000000">START/</text>
+<text x="81.25" y="58.96428571428572" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="7.428571428571429" font-weight="700" fill="#000000">STOP</text>
+</svg>

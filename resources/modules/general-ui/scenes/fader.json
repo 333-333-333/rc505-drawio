@@ -1,0 +1,288 @@
+{
+  "title": "Fader",
+  "w": 150,
+  "h": 132,
+  "parts": [
+    {
+      "kind": "line",
+      "points": [
+        [
+          61,
+          10.0
+        ],
+        [
+          68,
+          10.0
+        ]
+      ],
+      "color": "#000000",
+      "sw": 1,
+      "arrow": false,
+      "start": false,
+      "dash": false,
+      "label": ""
+    },
+    {
+      "kind": "line",
+      "points": [
+        [
+          82,
+          10.0
+        ],
+        [
+          89,
+          10.0
+        ]
+      ],
+      "color": "#000000",
+      "sw": 1,
+      "arrow": false,
+      "start": false,
+      "dash": false,
+      "label": ""
+    },
+    {
+      "kind": "line",
+      "points": [
+        [
+          61,
+          27.2
+        ],
+        [
+          68,
+          27.2
+        ]
+      ],
+      "color": "#000000",
+      "sw": 1,
+      "arrow": false,
+      "start": false,
+      "dash": false,
+      "label": ""
+    },
+    {
+      "kind": "line",
+      "points": [
+        [
+          82,
+          27.2
+        ],
+        [
+          89,
+          27.2
+        ]
+      ],
+      "color": "#000000",
+      "sw": 1,
+      "arrow": false,
+      "start": false,
+      "dash": false,
+      "label": ""
+    },
+    {
+      "kind": "line",
+      "points": [
+        [
+          61,
+          44.4
+        ],
+        [
+          68,
+          44.4
+        ]
+      ],
+      "color": "#000000",
+      "sw": 1,
+      "arrow": false,
+      "start": false,
+      "dash": false,
+      "label": ""
+    },
+    {
+      "kind": "line",
+      "points": [
+        [
+          82,
+          44.4
+        ],
+        [
+          89,
+          44.4
+        ]
+      ],
+      "color": "#000000",
+      "sw": 1,
+      "arrow": false,
+      "start": false,
+      "dash": false,
+      "label": ""
+    },
+    {
+      "kind": "line",
+      "points": [
+        [
+          61,
+          61.6
+        ],
+        [
+          68,
+          61.6
+        ]
+      ],
+      "color": "#000000",
+      "sw": 1,
+      "arrow": false,
+      "start": false,
+      "dash": false,
+      "label": ""
+    },
+    {
+      "kind": "line",
+      "points": [
+        [
+          82,
+          61.6
+        ],
+        [
+          89,
+          61.6
+        ]
+      ],
+      "color": "#000000",
+      "sw": 1,
+      "arrow": false,
+      "start": false,
+      "dash": false,
+      "label": ""
+    },
+    {
+      "kind": "line",
+      "points": [
+        [
+          61,
+          78.8
+        ],
+        [
+          68,
+          78.8
+        ]
+      ],
+      "color": "#000000",
+      "sw": 1,
+      "arrow": false,
+      "start": false,
+      "dash": false,
+      "label": ""
+    },
+    {
+      "kind": "line",
+      "points": [
+        [
+          82,
+          78.8
+        ],
+        [
+          89,
+          78.8
+        ]
+      ],
+      "color": "#000000",
+      "sw": 1,
+      "arrow": false,
+      "start": false,
+      "dash": false,
+      "label": ""
+    },
+    {
+      "kind": "line",
+      "points": [
+        [
+          61,
+          96.0
+        ],
+        [
+          68,
+          96.0
+        ]
+      ],
+      "color": "#000000",
+      "sw": 1,
+      "arrow": false,
+      "start": false,
+      "dash": false,
+      "label": ""
+    },
+    {
+      "kind": "line",
+      "points": [
+        [
+          82,
+          96.0
+        ],
+        [
+          89,
+          96.0
+        ]
+      ],
+      "color": "#000000",
+      "sw": 1,
+      "arrow": false,
+      "start": false,
+      "dash": false,
+      "label": ""
+    },
+    {
+      "kind": "rect",
+      "x": 73,
+      "y": 10,
+      "w": 4,
+      "h": 86,
+      "fill": "#000000",
+      "stroke": "#000000",
+      "radius": 2,
+      "sw": 1
+    },
+    {
+      "kind": "rect",
+      "x": 59,
+      "y": 37.4,
+      "w": 32,
+      "h": 15,
+      "fill": "#FFFFFF",
+      "stroke": "#000000",
+      "radius": 3,
+      "sw": 2
+    },
+    {
+      "kind": "line",
+      "points": [
+        [
+          63,
+          44.9
+        ],
+        [
+          87,
+          44.9
+        ]
+      ],
+      "color": "#000000",
+      "sw": 2,
+      "arrow": false,
+      "start": false,
+      "dash": false,
+      "label": ""
+    },
+    {
+      "kind": "text",
+      "text": "Fader",
+      "x": 0,
+      "y": 111.0,
+      "w": 150,
+      "h": 20.0,
+      "size": 10,
+      "color": "#000000",
+      "bold": true,
+      "align": "center"
+    }
+  ]
+}

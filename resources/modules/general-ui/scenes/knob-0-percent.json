@@ -1,0 +1,70 @@
+{
+  "title": "Knob 0%",
+  "w": 150,
+  "h": 132,
+  "parts": [
+    {
+      "kind": "ellipse",
+      "x": 41,
+      "y": 13,
+      "w": 68,
+      "h": 68,
+      "fill": "#FFFFFF",
+      "stroke": "#000000",
+      "sw": 2
+    },
+    {
+      "kind": "ellipse",
+      "x": 48,
+      "y": 20,
+      "w": 54,
+      "h": 54,
+      "fill": "#FFFFFF",
+      "stroke": "#000000",
+      "sw": 2
+    },
+    {
+      "kind": "line",
+      "points": [
+        [
+          68.74917605431092,
+          53.25082394568908
+        ],
+        [
+          60.09418905258758,
+          61.90581094741242
+        ]
+      ],
+      "color": "#000000",
+      "sw": 4,
+      "arrow": false,
+      "start": false,
+      "dash": false,
+      "label": ""
+    },
+    {
+      "kind": "text",
+      "text": "0",
+      "x": 40,
+      "y": 87.0,
+      "w": 70,
+      "h": 18.0,
+      "size": 12,
+      "color": "#000000",
+      "bold": true,
+      "align": "center"
+    },
+    {
+      "kind": "text",
+      "text": "Knob 0%",
+      "x": 0,
+      "y": 111.0,
+      "w": 150,
+      "h": 20.0,
+      "size": 10,
+      "color": "#000000",
+      "bold": true,
+      "align": "center"
+    }
+  ]
+}

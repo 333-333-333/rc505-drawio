@@ -1,0 +1,41 @@
+{
+  "title": "LED OFF",
+  "w": 150,
+  "h": 132,
+  "parts": [
+    {
+      "kind": "ellipse",
+      "x": 55,
+      "y": 25,
+      "w": 40,
+      "h": 40,
+      "fill": "#FFFFFF",
+      "stroke": "#000000",
+      "sw": 2
+    },
+    {
+      "kind": "text",
+      "text": "OFF",
+      "x": 40,
+      "y": 75.0,
+      "w": 70,
+      "h": 20.0,
+      "size": 12,
+      "color": "#000000",
+      "bold": true,
+      "align": "center"
+    },
+    {
+      "kind": "text",
+      "text": "LED OFF",
+      "x": 0,
+      "y": 111.0,
+      "w": 150,
+      "h": 20.0,
+      "size": 10,
+      "color": "#000000",
+      "bold": true,
+      "align": "center"
+    }
+  ]
+}

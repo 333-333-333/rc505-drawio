@@ -1,0 +1,108 @@
+{
+  "title": "Gesture · hold",
+  "w": 112,
+  "h": 122,
+  "parts": [
+    {
+      "kind": "ellipse",
+      "x": 28,
+      "y": 39,
+      "w": 56,
+      "h": 56,
+      "fill": "#FFFFFF",
+      "stroke": "#000000",
+      "sw": 2
+    },
+    {
+      "kind": "ellipse",
+      "x": 35,
+      "y": 46,
+      "w": 42,
+      "h": 42,
+      "fill": "#FFFFFF",
+      "stroke": "#000000",
+      "sw": 1
+    },
+    {
+      "kind": "line",
+      "points": [
+        [
+          56,
+          5
+        ],
+        [
+          56,
+          34
+        ]
+      ],
+      "color": "#000000",
+      "sw": 3,
+      "arrow": true,
+      "start": false,
+      "dash": false,
+      "label": ""
+    },
+    {
+      "kind": "line",
+      "points": [
+        [
+          15,
+          48
+        ],
+        [
+          21,
+          52
+        ]
+      ],
+      "color": "#000000",
+      "sw": 2,
+      "arrow": false,
+      "start": false,
+      "dash": false,
+      "label": ""
+    },
+    {
+      "kind": "line",
+      "points": [
+        [
+          91,
+          52
+        ],
+        [
+          97,
+          48
+        ]
+      ],
+      "color": "#000000",
+      "sw": 2,
+      "arrow": false,
+      "start": false,
+      "dash": false,
+      "label": ""
+    },
+    {
+      "kind": "text",
+      "text": "…",
+      "x": 36,
+      "y": 57.0,
+      "w": 40,
+      "h": 21.0,
+      "size": 16,
+      "color": "#000000",
+      "bold": true,
+      "align": "center"
+    },
+    {
+      "kind": "text",
+      "text": "HOLD",
+      "x": 0,
+      "y": 101.0,
+      "w": 112,
+      "h": 20.0,
+      "size": 11,
+      "color": "#000000",
+      "bold": true,
+      "align": "center"
+    }
+  ]
+}

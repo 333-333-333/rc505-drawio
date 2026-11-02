@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="135.10714285714286" height="140.21428571428572" viewBox="-4 -4 143.10714285714286 148.21428571428572">
+<ellipse cx="87.75" cy="60.82142857142858" rx="37.60714285714286" ry="37.60714285714286" fill="#FFFFFF" stroke="#000000" stroke-width="0.9285714285714286"/>
+<ellipse cx="87.75" cy="60.82142857142858" rx="34.35714285714286" ry="34.35714285714286" fill="#FFFFFF" stroke="#000000" stroke-width="0.9285714285714286"/>
+<polyline points="87.75,51.04357142857143 87.75,37.505" fill="none" stroke="#000000" stroke-width="1.8571428571428572" stroke-linecap="round" stroke-linejoin="round"/>
+<ellipse cx="13.92857142857143" cy="81.71428571428572" rx="10.214285714285715" ry="10.214285714285715" fill="#FFFFFF" stroke="#000000" stroke-width="0.7892857142857143"/>
+<text x="13.928571428571429" y="61.75000000000001" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="5.571428571428571" font-weight="400" fill="#000000">EDIT</text>
+<text x="42.017857142857146" y="103.07142857142857" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="7.892857142857143" font-weight="700" fill="#000000">TRACK FX</text>
+<ellipse cx="13.928571428571427" cy="127.21428571428571" rx="11.142857142857142" ry="11.142857142857142" fill="#FFFFFF" stroke="#000000" stroke-width="0.7892857142857143"/>
+<text x="13.928571428571427" y="127.21428571428571" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="10.678571428571429" font-weight="700" fill="#000000">A</text>
+<ellipse cx="49.67857142857143" cy="127.21428571428571" rx="11.142857142857142" ry="11.142857142857142" fill="#FFFFFF" stroke="#000000" stroke-width="0.7892857142857143"/>
+<text x="49.67857142857143" y="127.21428571428571" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="10.678571428571429" font-weight="700" fill="#000000">B</text>
+<ellipse cx="85.42857142857143" cy="127.21428571428571" rx="11.142857142857142" ry="11.142857142857142" fill="#FFFFFF" stroke="#000000" stroke-width="0.7892857142857143"/>
+<text x="85.42857142857143" y="127.21428571428571" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="10.678571428571429" font-weight="700" fill="#000000">C</text>
+<ellipse cx="121.64285714285714" cy="127.21428571428571" rx="11.142857142857142" ry="11.142857142857142" fill="#FFFFFF" stroke="#000000" stroke-width="0.7892857142857143"/>
+<text x="121.64285714285714" y="127.21428571428571" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="10.678571428571429" font-weight="700" fill="#000000">D</text>
+</svg>

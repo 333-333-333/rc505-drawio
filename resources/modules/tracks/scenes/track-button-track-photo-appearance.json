@@ -1,0 +1,54 @@
+{
+  "title": "TRACK button TRACK · photo appearance",
+  "w": 150,
+  "h": 116,
+  "parts": [
+    {
+      "kind": "rect",
+      "x": 28.5,
+      "y": 15,
+      "w": 93,
+      "h": 49,
+      "fill": "#FFFFFF",
+      "stroke": "#000000",
+      "radius": 24.5,
+      "sw": 1.5
+    },
+    {
+      "kind": "rect",
+      "x": 31.5,
+      "y": 18,
+      "w": 87,
+      "h": 43,
+      "fill": "none",
+      "stroke": "#20AE65",
+      "radius": 21.5,
+      "sw": 4,
+      "led": true
+    },
+    {
+      "kind": "text",
+      "text": "TRACK",
+      "x": 34.5,
+      "y": 19.0,
+      "w": 81,
+      "h": 41.0,
+      "size": 17,
+      "color": "#000000",
+      "bold": true,
+      "align": "center"
+    },
+    {
+      "kind": "text",
+      "text": "PHOTO APPEARANCE",
+      "x": 2,
+      "y": 96.0,
+      "w": 146,
+      "h": 16.0,
+      "size": 10,
+      "color": "#000000",
+      "bold": true,
+      "align": "center"
+    }
+  ]
+}

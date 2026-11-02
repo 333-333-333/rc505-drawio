@@ -1,0 +1,130 @@
+{
+  "title": "Instrument inputs",
+  "w": 199,
+  "h": 160,
+  "parts": [
+    {
+      "kind": "rect",
+      "x": 0,
+      "y": 0,
+      "w": 199,
+      "h": 160,
+      "fill": "#FFFFFF",
+      "stroke": "#000000",
+      "radius": 2,
+      "sw": 1
+    },
+    {
+      "kind": "text",
+      "text": "INST2",
+      "x": 20,
+      "y": 35.0,
+      "w": 70,
+      "h": 14.0,
+      "size": 8,
+      "color": "#000000",
+      "bold": true,
+      "align": "center"
+    },
+    {
+      "kind": "ellipse",
+      "x": 22,
+      "y": 55,
+      "w": 20,
+      "h": 20,
+      "fill": "#FFFFFF",
+      "stroke": "#000000",
+      "sw": 2
+    },
+    {
+      "kind": "text",
+      "text": "R",
+      "x": 10,
+      "y": 80.0,
+      "w": 44,
+      "h": 12.0,
+      "size": 6,
+      "color": "#000000",
+      "bold": false,
+      "align": "center"
+    },
+    {
+      "kind": "ellipse",
+      "x": 67,
+      "y": 55,
+      "w": 20,
+      "h": 20,
+      "fill": "#FFFFFF",
+      "stroke": "#000000",
+      "sw": 2
+    },
+    {
+      "kind": "text",
+      "text": "L/MONO",
+      "x": 55,
+      "y": 80.0,
+      "w": 44,
+      "h": 12.0,
+      "size": 6,
+      "color": "#000000",
+      "bold": false,
+      "align": "center"
+    },
+    {
+      "kind": "text",
+      "text": "INST1",
+      "x": 110,
+      "y": 35.0,
+      "w": 70,
+      "h": 14.0,
+      "size": 8,
+      "color": "#000000",
+      "bold": true,
+      "align": "center"
+    },
+    {
+      "kind": "ellipse",
+      "x": 112,
+      "y": 55,
+      "w": 20,
+      "h": 20,
+      "fill": "#FFFFFF",
+      "stroke": "#000000",
+      "sw": 2
+    },
+    {
+      "kind": "text",
+      "text": "R",
+      "x": 100,
+      "y": 80.0,
+      "w": 44,
+      "h": 12.0,
+      "size": 6,
+      "color": "#000000",
+      "bold": false,
+      "align": "center"
+    },
+    {
+      "kind": "ellipse",
+      "x": 157,
+      "y": 55,
+      "w": 20,
+      "h": 20,
+      "fill": "#FFFFFF",
+      "stroke": "#000000",
+      "sw": 2
+    },
+    {
+      "kind": "text",
+      "text": "L/MONO",
+      "x": 145,
+      "y": 80.0,
+      "w": 44,
+      "h": 12.0,
+      "size": 6,
+      "color": "#000000",
+      "bold": false,
+      "align": "center"
+    }
+  ]
+}

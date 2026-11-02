@@ -1,0 +1,307 @@
+{
+  "title": "SLIDE DOWN",
+  "w": 112,
+  "h": 122,
+  "parts": [
+    {
+      "kind": "line",
+      "points": [
+        [
+          33,
+          12.0
+        ],
+        [
+          40,
+          12.0
+        ]
+      ],
+      "color": "#000000",
+      "sw": 1,
+      "arrow": false,
+      "start": false,
+      "dash": false,
+      "label": ""
+    },
+    {
+      "kind": "line",
+      "points": [
+        [
+          54,
+          12.0
+        ],
+        [
+          61,
+          12.0
+        ]
+      ],
+      "color": "#000000",
+      "sw": 1,
+      "arrow": false,
+      "start": false,
+      "dash": false,
+      "label": ""
+    },
+    {
+      "kind": "line",
+      "points": [
+        [
+          33,
+          27.4
+        ],
+        [
+          40,
+          27.4
+        ]
+      ],
+      "color": "#000000",
+      "sw": 1,
+      "arrow": false,
+      "start": false,
+      "dash": false,
+      "label": ""
+    },
+    {
+      "kind": "line",
+      "points": [
+        [
+          54,
+          27.4
+        ],
+        [
+          61,
+          27.4
+        ]
+      ],
+      "color": "#000000",
+      "sw": 1,
+      "arrow": false,
+      "start": false,
+      "dash": false,
+      "label": ""
+    },
+    {
+      "kind": "line",
+      "points": [
+        [
+          33,
+          42.8
+        ],
+        [
+          40,
+          42.8
+        ]
+      ],
+      "color": "#000000",
+      "sw": 1,
+      "arrow": false,
+      "start": false,
+      "dash": false,
+      "label": ""
+    },
+    {
+      "kind": "line",
+      "points": [
+        [
+          54,
+          42.8
+        ],
+        [
+          61,
+          42.8
+        ]
+      ],
+      "color": "#000000",
+      "sw": 1,
+      "arrow": false,
+      "start": false,
+      "dash": false,
+      "label": ""
+    },
+    {
+      "kind": "line",
+      "points": [
+        [
+          33,
+          58.2
+        ],
+        [
+          40,
+          58.2
+        ]
+      ],
+      "color": "#000000",
+      "sw": 1,
+      "arrow": false,
+      "start": false,
+      "dash": false,
+      "label": ""
+    },
+    {
+      "kind": "line",
+      "points": [
+        [
+          54,
+          58.2
+        ],
+        [
+          61,
+          58.2
+        ]
+      ],
+      "color": "#000000",
+      "sw": 1,
+      "arrow": false,
+      "start": false,
+      "dash": false,
+      "label": ""
+    },
+    {
+      "kind": "line",
+      "points": [
+        [
+          33,
+          73.6
+        ],
+        [
+          40,
+          73.6
+        ]
+      ],
+      "color": "#000000",
+      "sw": 1,
+      "arrow": false,
+      "start": false,
+      "dash": false,
+      "label": ""
+    },
+    {
+      "kind": "line",
+      "points": [
+        [
+          54,
+          73.6
+        ],
+        [
+          61,
+          73.6
+        ]
+      ],
+      "color": "#000000",
+      "sw": 1,
+      "arrow": false,
+      "start": false,
+      "dash": false,
+      "label": ""
+    },
+    {
+      "kind": "line",
+      "points": [
+        [
+          33,
+          89.0
+        ],
+        [
+          40,
+          89.0
+        ]
+      ],
+      "color": "#000000",
+      "sw": 1,
+      "arrow": false,
+      "start": false,
+      "dash": false,
+      "label": ""
+    },
+    {
+      "kind": "line",
+      "points": [
+        [
+          54,
+          89.0
+        ],
+        [
+          61,
+          89.0
+        ]
+      ],
+      "color": "#000000",
+      "sw": 1,
+      "arrow": false,
+      "start": false,
+      "dash": false,
+      "label": ""
+    },
+    {
+      "kind": "rect",
+      "x": 45,
+      "y": 12,
+      "w": 4,
+      "h": 77,
+      "fill": "#000000",
+      "stroke": "#000000",
+      "radius": 2,
+      "sw": 1
+    },
+    {
+      "kind": "rect",
+      "x": 31,
+      "y": 43.5,
+      "w": 32,
+      "h": 15,
+      "fill": "#FFFFFF",
+      "stroke": "#000000",
+      "radius": 3,
+      "sw": 2
+    },
+    {
+      "kind": "line",
+      "points": [
+        [
+          35,
+          51.0
+        ],
+        [
+          59,
+          51.0
+        ]
+      ],
+      "color": "#000000",
+      "sw": 2,
+      "arrow": false,
+      "start": false,
+      "dash": false,
+      "label": ""
+    },
+    {
+      "kind": "line",
+      "points": [
+        [
+          87,
+          12
+        ],
+        [
+          87,
+          86
+        ]
+      ],
+      "color": "#000000",
+      "sw": 3,
+      "arrow": true,
+      "start": false,
+      "dash": false,
+      "label": ""
+    },
+    {
+      "kind": "text",
+      "text": "SLIDE DOWN",
+      "x": 0,
+      "y": 101.0,
+      "w": 112,
+      "h": 20.0,
+      "size": 11,
+      "color": "#000000",
+      "bold": true,
+      "align": "center"
+    }
+  ]
+}

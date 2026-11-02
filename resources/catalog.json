@@ -1,0 +1,647 @@
+{
+  "version": 1,
+  "resources": {
+    "encoder-strip": {
+      "title": "Four physical encoders",
+      "category": "hardware",
+      "path": "modules/display-navigation/scenes/encoder-strip.json",
+      "module": "display-navigation"
+    },
+    "track-strip": {
+      "title": "Track 1 · module",
+      "category": "hardware",
+      "path": "modules/tracks/scenes/track-strip.json",
+      "module": "tracks"
+    },
+    "top": {
+      "title": "RC-505mkII · calibrated top view",
+      "category": "hardware",
+      "path": "modules/device/scenes/top.json",
+      "module": "device"
+    },
+    "rear": {
+      "title": "RC-505mkII · rear view",
+      "category": "hardware",
+      "path": "modules/device/scenes/rear.json",
+      "module": "device"
+    },
+    "input-fx": {
+      "title": "Input FX",
+      "category": "hardware",
+      "path": "modules/input-fx/scenes/input-fx.json",
+      "module": "input-fx"
+    },
+    "track-fx": {
+      "title": "Track FX",
+      "category": "hardware",
+      "path": "modules/track-fx/scenes/track-fx.json",
+      "module": "track-fx"
+    },
+    "global-transport": {
+      "title": "Global transport",
+      "category": "hardware",
+      "path": "modules/global-controls/scenes/global-transport.json",
+      "module": "global-controls"
+    },
+    "display-navigation": {
+      "title": "Display, navigation and output level",
+      "category": "hardware",
+      "path": "modules/display-navigation/scenes/display-navigation.json",
+      "module": "display-navigation"
+    },
+    "rhythm": {
+      "title": "Rhythm and tap tempo",
+      "category": "hardware",
+      "path": "modules/rhythm/scenes/rhythm.json",
+      "module": "rhythm"
+    },
+    "central-controls-zoom": {
+      "title": "Central controls · calibrated context",
+      "category": "hardware",
+      "path": "modules/display-navigation/scenes/central-controls-zoom.json",
+      "module": "display-navigation"
+    },
+    "menu-button": {
+      "title": "MENU button",
+      "category": "hardware",
+      "path": "modules/display-navigation/scenes/menu-button.json",
+      "module": "display-navigation"
+    },
+    "page-right-button": {
+      "title": "PAGE right button",
+      "category": "hardware",
+      "path": "modules/display-navigation/scenes/page-right-button.json",
+      "module": "display-navigation"
+    },
+    "selector-knob": {
+      "title": "Physical encoder",
+      "category": "hardware",
+      "path": "modules/display-navigation/scenes/selector-knob.json",
+      "module": "display-navigation"
+    },
+    "rear-power-usb": {
+      "title": "Power and USB",
+      "category": "cables",
+      "path": "modules/connections/scenes/rear-power-usb.json",
+      "module": "connections"
+    },
+    "rear-midi": {
+      "title": "MIDI",
+      "category": "cables",
+      "path": "modules/connections/scenes/rear-midi.json",
+      "module": "connections"
+    },
+    "rear-ctl-exp": {
+      "title": "CTL and EXP",
+      "category": "cables",
+      "path": "modules/connections/scenes/rear-ctl-exp.json",
+      "module": "connections"
+    },
+    "rear-outputs": {
+      "title": "Outputs",
+      "category": "cables",
+      "path": "modules/connections/scenes/rear-outputs.json",
+      "module": "connections"
+    },
+    "rear-instrument-inputs": {
+      "title": "Instrument inputs",
+      "category": "cables",
+      "path": "modules/connections/scenes/rear-instrument-inputs.json",
+      "module": "connections"
+    },
+    "rear-mic-inputs": {
+      "title": "Mic inputs",
+      "category": "cables",
+      "path": "modules/connections/scenes/rear-mic-inputs.json",
+      "module": "connections"
+    },
+    "menu-screen": {
+      "title": "MENU screen",
+      "category": "lcd",
+      "path": "modules/screen-ui/scenes/menu-screen.json",
+      "module": "screen-ui"
+    },
+    "menu-setup-screen": {
+      "title": "MENU screen",
+      "category": "lcd",
+      "path": "modules/screen-ui/scenes/menu-setup-screen.json",
+      "module": "screen-ui"
+    },
+    "setup-screen": {
+      "title": "SETUP screen",
+      "category": "lcd",
+      "path": "modules/screen-ui/scenes/setup-screen.json",
+      "module": "screen-ui"
+    },
+    "setup-autooff-screen": {
+      "title": "SETUP screen",
+      "category": "lcd",
+      "path": "modules/screen-ui/scenes/setup-autooff-screen.json",
+      "module": "screen-ui"
+    },
+    "rc-505mkii-compact-block": {
+      "title": "RC-505mkII · compact block",
+      "category": "hardware",
+      "path": "modules/device/scenes/rc-505mkii-compact-block.json",
+      "module": "device"
+    },
+    "cable-mono-audio": {
+      "title": "Cable Mono audio",
+      "category": "cables",
+      "path": "modules/connections/scenes/cable-mono-audio.json",
+      "module": "connections"
+    },
+    "cable-stereo-audio-l-r": {
+      "title": "Cable Stereo audio L/R",
+      "category": "cables",
+      "path": "modules/connections/scenes/cable-stereo-audio-l-r.json",
+      "module": "connections"
+    },
+    "cable-midi": {
+      "title": "Cable MIDI",
+      "category": "cables",
+      "path": "modules/connections/scenes/cable-midi.json",
+      "module": "connections"
+    },
+    "cable-usb": {
+      "title": "Cable USB",
+      "category": "cables",
+      "path": "modules/connections/scenes/cable-usb.json",
+      "module": "connections"
+    },
+    "cable-ctl-exp": {
+      "title": "Cable CTL / EXP",
+      "category": "cables",
+      "path": "modules/connections/scenes/cable-ctl-exp.json",
+      "module": "connections"
+    },
+    "cable-dc": {
+      "title": "Cable DC",
+      "category": "cables",
+      "path": "modules/connections/scenes/cable-dc.json",
+      "module": "connections"
+    },
+    "jack-ts-6-35": {
+      "title": "Jack TS 6.35",
+      "category": "cables",
+      "path": "modules/connections/scenes/jack-ts-6-35.json",
+      "module": "connections"
+    },
+    "jack-trs-6-35": {
+      "title": "Jack TRS 6.35",
+      "category": "cables",
+      "path": "modules/connections/scenes/jack-trs-6-35.json",
+      "module": "connections"
+    },
+    "xlr-female": {
+      "title": "XLR female",
+      "category": "cables",
+      "path": "modules/connections/scenes/xlr-female.json",
+      "module": "connections"
+    },
+    "xlr-male": {
+      "title": "XLR male",
+      "category": "cables",
+      "path": "modules/connections/scenes/xlr-male.json",
+      "module": "connections"
+    },
+    "midi-din-5": {
+      "title": "MIDI DIN 5",
+      "category": "cables",
+      "path": "modules/connections/scenes/midi-din-5.json",
+      "module": "connections"
+    },
+    "usb-type-a": {
+      "title": "USB type A",
+      "category": "cables",
+      "path": "modules/connections/scenes/usb-type-a.json",
+      "module": "connections"
+    },
+    "usb-type-b": {
+      "title": "USB type B",
+      "category": "cables",
+      "path": "modules/connections/scenes/usb-type-b.json",
+      "module": "connections"
+    },
+    "dc-barrel": {
+      "title": "DC barrel",
+      "category": "cables",
+      "path": "modules/connections/scenes/dc-barrel.json",
+      "module": "connections"
+    },
+    "press": {
+      "title": "Gesture · press",
+      "category": "actions",
+      "path": "modules/gestures/scenes/press.json",
+      "module": "gestures"
+    },
+    "double-press": {
+      "title": "Gesture · double press",
+      "category": "actions",
+      "path": "modules/gestures/scenes/double-press.json",
+      "module": "gestures"
+    },
+    "hold": {
+      "title": "Gesture · hold",
+      "category": "actions",
+      "path": "modules/gestures/scenes/hold.json",
+      "module": "gestures"
+    },
+    "twist-cw": {
+      "title": "TWIST CW",
+      "category": "actions",
+      "path": "modules/gestures/scenes/twist-cw.json",
+      "module": "gestures"
+    },
+    "twist-ccw": {
+      "title": "TWIST CCW",
+      "category": "actions",
+      "path": "modules/gestures/scenes/twist-ccw.json",
+      "module": "gestures"
+    },
+    "twist-plus-minus": {
+      "title": "TWIST ±",
+      "category": "actions",
+      "path": "modules/gestures/scenes/twist-plus-minus.json",
+      "module": "gestures"
+    },
+    "slide-up": {
+      "title": "SLIDE UP",
+      "category": "actions",
+      "path": "modules/gestures/scenes/slide-up.json",
+      "module": "gestures"
+    },
+    "slide-down": {
+      "title": "SLIDE DOWN",
+      "category": "actions",
+      "path": "modules/gestures/scenes/slide-down.json",
+      "module": "gestures"
+    },
+    "slide-plus-minus": {
+      "title": "SLIDE ±",
+      "category": "actions",
+      "path": "modules/gestures/scenes/slide-plus-minus.json",
+      "module": "gestures"
+    },
+    "knob-0-percent": {
+      "title": "Knob 0%",
+      "category": "lcd",
+      "path": "modules/general-ui/scenes/knob-0-percent.json",
+      "module": "general-ui"
+    },
+    "knob-50-percent": {
+      "title": "Knob 50%",
+      "category": "lcd",
+      "path": "modules/general-ui/scenes/knob-50-percent.json",
+      "module": "general-ui"
+    },
+    "knob-100-percent": {
+      "title": "Knob 100%",
+      "category": "lcd",
+      "path": "modules/general-ui/scenes/knob-100-percent.json",
+      "module": "general-ui"
+    },
+    "fader": {
+      "title": "Fader",
+      "category": "lcd",
+      "path": "modules/general-ui/scenes/fader.json",
+      "module": "general-ui"
+    },
+    "switch-on": {
+      "title": "Switch ON",
+      "category": "lcd",
+      "path": "modules/general-ui/scenes/switch-on.json",
+      "module": "general-ui"
+    },
+    "switch-off": {
+      "title": "Switch OFF",
+      "category": "lcd",
+      "path": "modules/general-ui/scenes/switch-off.json",
+      "module": "general-ui"
+    },
+    "rec": {
+      "title": "REC",
+      "category": "lcd",
+      "path": "modules/general-ui/scenes/rec.json",
+      "module": "general-ui"
+    },
+    "play": {
+      "title": "PLAY",
+      "category": "lcd",
+      "path": "modules/general-ui/scenes/play.json",
+      "module": "general-ui"
+    },
+    "stop": {
+      "title": "STOP",
+      "category": "lcd",
+      "path": "modules/general-ui/scenes/stop.json",
+      "module": "general-ui"
+    },
+    "button": {
+      "title": "Button",
+      "category": "lcd",
+      "path": "modules/general-ui/scenes/button.json",
+      "module": "general-ui"
+    },
+    "lcd-screen": {
+      "title": "LCD screen",
+      "category": "lcd",
+      "path": "modules/general-ui/scenes/lcd-screen.json",
+      "module": "general-ui"
+    },
+    "parameter": {
+      "title": "Parameter",
+      "category": "lcd",
+      "path": "modules/general-ui/scenes/parameter.json",
+      "module": "general-ui"
+    },
+    "meter": {
+      "title": "Meter",
+      "category": "lcd",
+      "path": "modules/general-ui/scenes/meter.json",
+      "module": "general-ui"
+    },
+    "led-on": {
+      "title": "LED ON",
+      "category": "lcd",
+      "path": "modules/general-ui/scenes/led-on.json",
+      "module": "general-ui"
+    },
+    "led-off": {
+      "title": "LED OFF",
+      "category": "lcd",
+      "path": "modules/general-ui/scenes/led-off.json",
+      "module": "general-ui"
+    },
+    "fx-a-d-a-off": {
+      "title": "FX A-D A · off",
+      "category": "led",
+      "path": "modules/fx-buttons/scenes/fx-a-d-a-off.json",
+      "module": "fx-buttons"
+    },
+    "fx-a-d-a-effect-on": {
+      "title": "FX A-D A · effect on",
+      "category": "led",
+      "path": "modules/fx-buttons/scenes/fx-a-d-a-effect-on.json",
+      "module": "fx-buttons"
+    },
+    "fx-a-d-a-editable-effect": {
+      "title": "FX A-D A · editable effect",
+      "category": "led",
+      "path": "modules/fx-buttons/scenes/fx-a-d-a-editable-effect.json",
+      "module": "fx-buttons"
+    },
+    "fx-a-d-a-selected-bank": {
+      "title": "FX A-D A · selected bank",
+      "category": "led",
+      "path": "modules/fx-buttons/scenes/fx-a-d-a-selected-bank.json",
+      "module": "fx-buttons"
+    },
+    "fx-a-d-b-off": {
+      "title": "FX A-D B · off",
+      "category": "led",
+      "path": "modules/fx-buttons/scenes/fx-a-d-b-off.json",
+      "module": "fx-buttons"
+    },
+    "fx-a-d-b-effect-on": {
+      "title": "FX A-D B · effect on",
+      "category": "led",
+      "path": "modules/fx-buttons/scenes/fx-a-d-b-effect-on.json",
+      "module": "fx-buttons"
+    },
+    "fx-a-d-b-editable-effect": {
+      "title": "FX A-D B · editable effect",
+      "category": "led",
+      "path": "modules/fx-buttons/scenes/fx-a-d-b-editable-effect.json",
+      "module": "fx-buttons"
+    },
+    "fx-a-d-b-selected-bank": {
+      "title": "FX A-D B · selected bank",
+      "category": "led",
+      "path": "modules/fx-buttons/scenes/fx-a-d-b-selected-bank.json",
+      "module": "fx-buttons"
+    },
+    "fx-a-d-c-off": {
+      "title": "FX A-D C · off",
+      "category": "led",
+      "path": "modules/fx-buttons/scenes/fx-a-d-c-off.json",
+      "module": "fx-buttons"
+    },
+    "fx-a-d-c-effect-on": {
+      "title": "FX A-D C · effect on",
+      "category": "led",
+      "path": "modules/fx-buttons/scenes/fx-a-d-c-effect-on.json",
+      "module": "fx-buttons"
+    },
+    "fx-a-d-c-editable-effect": {
+      "title": "FX A-D C · editable effect",
+      "category": "led",
+      "path": "modules/fx-buttons/scenes/fx-a-d-c-editable-effect.json",
+      "module": "fx-buttons"
+    },
+    "fx-a-d-c-selected-bank": {
+      "title": "FX A-D C · selected bank",
+      "category": "led",
+      "path": "modules/fx-buttons/scenes/fx-a-d-c-selected-bank.json",
+      "module": "fx-buttons"
+    },
+    "fx-a-d-d-off": {
+      "title": "FX A-D D · off",
+      "category": "led",
+      "path": "modules/fx-buttons/scenes/fx-a-d-d-off.json",
+      "module": "fx-buttons"
+    },
+    "fx-a-d-d-effect-on": {
+      "title": "FX A-D D · effect on",
+      "category": "led",
+      "path": "modules/fx-buttons/scenes/fx-a-d-d-effect-on.json",
+      "module": "fx-buttons"
+    },
+    "fx-a-d-d-editable-effect": {
+      "title": "FX A-D D · editable effect",
+      "category": "led",
+      "path": "modules/fx-buttons/scenes/fx-a-d-d-editable-effect.json",
+      "module": "fx-buttons"
+    },
+    "fx-a-d-d-selected-bank": {
+      "title": "FX A-D D · selected bank",
+      "category": "led",
+      "path": "modules/fx-buttons/scenes/fx-a-d-d-selected-bank.json",
+      "module": "fx-buttons"
+    },
+    "track-fx-fx-off": {
+      "title": "TRACK FX FX · off",
+      "category": "led",
+      "path": "modules/tracks/scenes/track-fx-fx-off.json",
+      "module": "tracks"
+    },
+    "track-fx-fx-lit-neutral": {
+      "title": "TRACK FX FX · lit neutral",
+      "category": "led",
+      "path": "modules/tracks/scenes/track-fx-fx-lit-neutral.json",
+      "module": "tracks"
+    },
+    "track-fx-fx-photo-appearance": {
+      "title": "TRACK FX FX · photo appearance",
+      "category": "led",
+      "path": "modules/tracks/scenes/track-fx-fx-photo-appearance.json",
+      "module": "tracks"
+    },
+    "track-button-track-off": {
+      "title": "TRACK button TRACK · off",
+      "category": "led",
+      "path": "modules/tracks/scenes/track-button-track-off.json",
+      "module": "tracks"
+    },
+    "track-button-track-lit-neutral": {
+      "title": "TRACK button TRACK · lit neutral",
+      "category": "led",
+      "path": "modules/tracks/scenes/track-button-track-lit-neutral.json",
+      "module": "tracks"
+    },
+    "track-button-track-photo-appearance": {
+      "title": "TRACK button TRACK · photo appearance",
+      "category": "led",
+      "path": "modules/tracks/scenes/track-button-track-photo-appearance.json",
+      "module": "tracks"
+    },
+    "stop-off": {
+      "title": "STOP  · off",
+      "category": "led",
+      "path": "modules/tracks/scenes/stop-off.json",
+      "module": "tracks"
+    },
+    "stop-blinking": {
+      "title": "STOP  · blinking",
+      "category": "led",
+      "path": "modules/tracks/scenes/stop-blinking.json",
+      "module": "tracks"
+    },
+    "all-start-stop-off": {
+      "title": "ALL START/STOP  · off",
+      "category": "led",
+      "path": "modules/global-controls/scenes/all-start-stop-off.json",
+      "module": "global-controls"
+    },
+    "all-start-stop-lit-neutral": {
+      "title": "ALL START/STOP  · lit neutral",
+      "category": "led",
+      "path": "modules/global-controls/scenes/all-start-stop-lit-neutral.json",
+      "module": "global-controls"
+    },
+    "all-start-stop-photo-appearance": {
+      "title": "ALL START/STOP  · photo appearance",
+      "category": "led",
+      "path": "modules/global-controls/scenes/all-start-stop-photo-appearance.json",
+      "module": "global-controls"
+    },
+    "lcd-frame-128-x-64-aspect": {
+      "title": "LCD frame · 128 × 64 aspect",
+      "category": "lcd",
+      "path": "modules/screen-ui/scenes/lcd-frame-128-x-64-aspect.json",
+      "module": "screen-ui"
+    },
+    "lcd-header-and-page-arrows": {
+      "title": "LCD header and page arrows",
+      "category": "lcd",
+      "path": "modules/screen-ui/scenes/lcd-header-and-page-arrows.json",
+      "module": "screen-ui"
+    },
+    "lcd-label-value-field": {
+      "title": "LCD label/value field",
+      "category": "lcd",
+      "path": "modules/screen-ui/scenes/lcd-label-value-field.json",
+      "module": "screen-ui"
+    },
+    "lcd-label-value-field-selected": {
+      "title": "LCD label/value field · selected",
+      "category": "lcd",
+      "path": "modules/screen-ui/scenes/lcd-label-value-field-selected.json",
+      "module": "screen-ui"
+    },
+    "lcd-selected-field": {
+      "title": "LCD selected field",
+      "category": "lcd",
+      "path": "modules/screen-ui/scenes/lcd-selected-field.json",
+      "module": "screen-ui"
+    },
+    "lcd-menu-item": {
+      "title": "LCD menu item",
+      "category": "lcd",
+      "path": "modules/screen-ui/scenes/lcd-menu-item.json",
+      "module": "screen-ui"
+    },
+    "lcd-edit-cursor": {
+      "title": "LCD edit cursor",
+      "category": "lcd",
+      "path": "modules/screen-ui/scenes/lcd-edit-cursor.json",
+      "module": "screen-ui"
+    },
+    "lcd-on-field": {
+      "title": "LCD ON field",
+      "category": "lcd",
+      "path": "modules/screen-ui/scenes/lcd-on-field.json",
+      "module": "screen-ui"
+    },
+    "lcd-off-field": {
+      "title": "LCD OFF field",
+      "category": "lcd",
+      "path": "modules/screen-ui/scenes/lcd-off-field.json",
+      "module": "screen-ui"
+    },
+    "title-schematic-screen-reference": {
+      "title": "TITLE screen",
+      "category": "lcd",
+      "path": "modules/screen-ui/scenes/title-schematic-screen-reference.json",
+      "module": "screen-ui"
+    },
+    "action-output-route": {
+      "title": "Output preferences route",
+      "category": "actions",
+      "path": "modules/display-navigation/scenes/action-output-route.json",
+      "module": "display-navigation"
+    },
+    "action-input-route": {
+      "title": "Input preferences route",
+      "category": "actions",
+      "path": "modules/display-navigation/scenes/action-input-route.json",
+      "module": "display-navigation"
+    },
+    "action-mixer-route": {
+      "title": "Mixer route",
+      "category": "actions",
+      "path": "modules/display-navigation/scenes/action-mixer-route.json",
+      "module": "display-navigation"
+    },
+    "action-control-preferences-route": {
+      "title": "Control preferences route",
+      "category": "actions",
+      "path": "modules/display-navigation/scenes/action-control-preferences-route.json",
+      "module": "display-navigation"
+    },
+    "action-clear-track4": {
+      "title": "Track 4 · clear",
+      "category": "actions",
+      "path": "modules/tracks/scenes/action-clear-track4.json",
+      "module": "tracks"
+    },
+    "action-clear-track5": {
+      "title": "Track 5 · clear",
+      "category": "actions",
+      "path": "modules/tracks/scenes/action-clear-track5.json",
+      "module": "tracks"
+    },
+    "action-track5": {
+      "title": "Track 5 · TRACK press",
+      "category": "actions",
+      "path": "modules/tracks/scenes/action-track5.json",
+      "module": "tracks"
+    },
+    "action-trackfx-bank-c": {
+      "title": "Track FX · select bank C",
+      "category": "actions",
+      "path": "modules/track-fx/scenes/action-trackfx-bank-c.json",
+      "module": "track-fx"
+    }
+  }
+}

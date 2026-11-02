@@ -1,0 +1,19 @@
+{
+  "title": "EXAMPLE screen - synthetic",
+  "layout": {"columns": 1, "cell_width": 560, "cell_height": 340},
+  "steps": [
+    {
+      "id": "example-screen",
+      "title": "Example values",
+      "caption": "Synthetic settings; selected index 0 highlights LEVEL.",
+      "screen": {
+        "title": "EXAMPLE",
+        "fields": [
+          {"label": "LEVEL", "value": "42"},
+          {"label": "MODE", "value": "ON"}
+        ],
+        "selected": 0
+      }
+    }
+  ]
+}

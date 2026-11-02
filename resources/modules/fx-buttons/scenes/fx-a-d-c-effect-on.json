@@ -1,0 +1,52 @@
+{
+  "title": "FX A-D C · effect on",
+  "w": 150,
+  "h": 116,
+  "parts": [
+    {
+      "kind": "ellipse",
+      "x": 48.0,
+      "y": 10,
+      "w": 54,
+      "h": 54,
+      "fill": "#FFFFFF",
+      "stroke": "#000000",
+      "sw": 1.5
+    },
+    {
+      "kind": "ellipse",
+      "x": 52.0,
+      "y": 14,
+      "w": 46,
+      "h": 46,
+      "fill": "none",
+      "stroke": "#E33B40",
+      "sw": 4,
+      "led": true
+    },
+    {
+      "kind": "text",
+      "text": "C",
+      "x": 48.0,
+      "y": 10.0,
+      "w": 54,
+      "h": 54.0,
+      "size": 22,
+      "color": "#000000",
+      "bold": true,
+      "align": "center"
+    },
+    {
+      "kind": "text",
+      "text": "EFFECT ON",
+      "x": 2,
+      "y": 96.0,
+      "w": 146,
+      "h": 16.0,
+      "size": 10,
+      "color": "#000000",
+      "bold": true,
+      "align": "center"
+    }
+  ]
+}

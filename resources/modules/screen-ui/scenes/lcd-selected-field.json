@@ -1,0 +1,30 @@
+{
+  "title": "LCD selected field",
+  "w": 128,
+  "h": 48,
+  "parts": [
+    {
+      "kind": "rect",
+      "x": 0,
+      "y": 0,
+      "w": 128,
+      "h": 48,
+      "fill": "#FFFFFF",
+      "stroke": "#000000",
+      "radius": 0,
+      "sw": 2
+    },
+    {
+      "kind": "text",
+      "text": "SELECTED",
+      "x": 0,
+      "y": 0.0,
+      "w": 128,
+      "h": 48.0,
+      "size": 15,
+      "color": "#000000",
+      "bold": true,
+      "align": "center"
+    }
+  ]
+}

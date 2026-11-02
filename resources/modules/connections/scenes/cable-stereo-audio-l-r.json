@@ -1,0 +1,57 @@
+{
+  "title": "Cable Stereo audio L/R",
+  "w": 240,
+  "h": 44,
+  "parts": [
+    {
+      "kind": "line",
+      "points": [
+        [
+          0,
+          19
+        ],
+        [
+          240,
+          19
+        ]
+      ],
+      "color": "#000000",
+      "sw": 3,
+      "arrow": false,
+      "start": false,
+      "dash": false,
+      "label": ""
+    },
+    {
+      "kind": "line",
+      "points": [
+        [
+          0,
+          27
+        ],
+        [
+          240,
+          27
+        ]
+      ],
+      "color": "#000000",
+      "sw": 3,
+      "arrow": false,
+      "start": false,
+      "dash": false,
+      "label": ""
+    },
+    {
+      "kind": "text",
+      "text": "Cable Stereo audio L/R",
+      "x": 0,
+      "y": 0.0,
+      "w": 240,
+      "h": 16.0,
+      "size": 10,
+      "color": "#000000",
+      "bold": true,
+      "align": "center"
+    }
+  ]
+}

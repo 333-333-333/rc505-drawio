@@ -1,0 +1,142 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1060" viewBox="-4 -4 1208 1068">
+<rect x="0" y="0" width="1200" height="1060" rx="0" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<text x="30" y="41.0" dominant-baseline="central" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" fill="#000000">Reusable gestures, LEDs and LCD resources</text>
+<ellipse cx="111.60000000000002" cy="193.70000000000002" rx="30.800000000000004" ry="30.800000000000004" fill="#FFFFFF" stroke="#000000" stroke-width="2.2"/>
+<ellipse cx="111.6" cy="193.7" rx="23.1" ry="23.1" fill="#FFFFFF" stroke="#000000" stroke-width="1.1"/>
+<polyline points="111.60000000000001,125.5 111.60000000000001,157.4" fill="none" stroke="#000000" stroke-width="3.3000000000000003" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="111.60000000000001,157.4 106.99230688042687,147.08209497447092 116.20769311957315,147.08209497447092" fill="#000000"/>
+<polyline points="66.5,172.8 73.1,177.2" fill="none" stroke="#000000" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="150.10000000000002,177.2 156.7,172.8" fill="none" stroke="#000000" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="111.6" y="194.25" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17.6" font-weight="700" fill="#000000">1×</text>
+<text x="111.60000000000001" y="242.10000000000002" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="12.100000000000001" font-weight="700" fill="#000000">PRESS</text>
+<text x="111.60000000000001" y="273.70000000000005" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#000000">press</text>
+<ellipse cx="286.6" cy="193.70000000000002" rx="30.800000000000004" ry="30.800000000000004" fill="#FFFFFF" stroke="#000000" stroke-width="2.2"/>
+<ellipse cx="286.6" cy="193.7" rx="23.1" ry="23.1" fill="#FFFFFF" stroke="#000000" stroke-width="1.1"/>
+<polyline points="286.6,125.5 286.6,157.4" fill="none" stroke="#000000" stroke-width="3.3000000000000003" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="286.6,157.4 281.9923068804269,147.08209497447092 291.20769311957315,147.08209497447092" fill="#000000"/>
+<polyline points="241.5,172.8 248.1,177.2" fill="none" stroke="#000000" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="325.1,177.2 331.7,172.8" fill="none" stroke="#000000" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="286.6" y="194.25" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17.6" font-weight="700" fill="#000000">…</text>
+<text x="286.6" y="242.10000000000002" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="12.100000000000001" font-weight="700" fill="#000000">HOLD</text>
+<text x="286.6" y="273.70000000000005" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#000000">hold</text>
+<ellipse cx="462.15" cy="179.95" rx="30.250000000000004" ry="30.250000000000004" fill="#FFFFFF" stroke="#000000" stroke-width="2.2"/>
+<ellipse cx="462.15000000000003" cy="179.95000000000002" rx="22.55" ry="22.55" fill="#FFFFFF" stroke="#000000" stroke-width="2.2"/>
+<polyline points="466.3642777425098,173.30936086592664 472.1994315398311,164.11462975720968" fill="none" stroke="#000000" stroke-width="4.4" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="422.8541083051307,206.53016543940447 416.36678504294844,193.22918163338545 414.3072040191027,178.5745011755165 416.87697137415233,164.0006262941765 423.82454037476305,150.9341494049081 434.46983456059553,140.6541083051307 447.77081836661455,134.16678504294842 462.4254988244835,132.10720401910268 476.9993737058235,134.67697137415232 490.0658505950919,141.62454037476303 500.3458916948693,152.2698345605955 506.8332149570516,165.57081836661453 508.8927959808973,180.2254988244835 506.3230286258477,194.79937370582348 499.375459625237,207.86585059509187" fill="none" stroke="#000000" stroke-width="3.3000000000000003" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="499.375459625237,207.86585059509187 500.1510710736888,196.59250029977014 508.2877741708083,200.91886207913774" fill="#000000"/>
+<text x="461.6" y="242.10000000000002" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="12.100000000000001" font-weight="700" fill="#000000">TWIST CW</text>
+<text x="461.6" y="273.70000000000005" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#000000">twist-cw</text>
+<polyline points="611.3,133.2 619.0,133.2" fill="none" stroke="#000000" stroke-width="1.1" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="634.4,133.2 642.1,133.2" fill="none" stroke="#000000" stroke-width="1.1" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="611.3,150.14 619.0,150.14" fill="none" stroke="#000000" stroke-width="1.1" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="634.4,150.14 642.1,150.14" fill="none" stroke="#000000" stroke-width="1.1" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="611.3,167.07999999999998 619.0,167.07999999999998" fill="none" stroke="#000000" stroke-width="1.1" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="634.4,167.07999999999998 642.1,167.07999999999998" fill="none" stroke="#000000" stroke-width="1.1" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="611.3,184.02 619.0,184.02" fill="none" stroke="#000000" stroke-width="1.1" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="634.4,184.02 642.1,184.02" fill="none" stroke="#000000" stroke-width="1.1" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="611.3,200.95999999999998 619.0,200.95999999999998" fill="none" stroke="#000000" stroke-width="1.1" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="634.4,200.95999999999998 642.1,200.95999999999998" fill="none" stroke="#000000" stroke-width="1.1" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="611.3,217.9 619.0,217.9" fill="none" stroke="#000000" stroke-width="1.1" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="634.4,217.9 642.1,217.9" fill="none" stroke="#000000" stroke-width="1.1" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="624.5" y="133.2" width="4.4" height="84.7" rx="2.2" fill="#000000" stroke="#000000" stroke-width="1.1"/>
+<rect x="609.1" y="167.85" width="35.2" height="16.5" rx="3.3000000000000003" fill="#FFFFFF" stroke="#000000" stroke-width="2.2"/>
+<polyline points="613.5,176.1 639.9,176.1" fill="none" stroke="#000000" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="670.7,214.60000000000002 670.7,133.2" fill="none" stroke="#000000" stroke-width="3.3000000000000003" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="670.7,133.2 675.3076931195732,143.51790502552907 666.0923068804269,143.51790502552907" fill="#000000"/>
+<text x="636.6" y="242.10000000000002" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="12.100000000000001" font-weight="700" fill="#000000">SLIDE UP</text>
+<text x="636.6" y="273.70000000000005" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#000000">slide-up</text>
+<ellipse cx="857.5" cy="160.7" rx="29.700000000000003" ry="29.700000000000003" fill="#FFFFFF" stroke="#000000" stroke-width="1.6500000000000001"/>
+<ellipse cx="857.5" cy="160.70000000000002" rx="25.3" ry="25.3" fill="none" stroke="#E33B40" stroke-width="4.4"/>
+<text x="857.5" y="160.7" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="24.200000000000003" font-weight="700" fill="#000000">A</text>
+<text x="857.5" y="234.40000000000003" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="11.0" font-weight="700" fill="#000000">EFFECT ON</text>
+<text x="857.5" y="267.1" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#000000">fx-a-d-a-effect-on</text>
+<rect x="1016.35" y="136.5" width="102.30000000000001" height="53.900000000000006" rx="26.950000000000003" fill="#FFFFFF" stroke="#000000" stroke-width="1.6500000000000001"/>
+<rect x="1019.65" y="139.8" width="95.7" height="47.300000000000004" rx="23.650000000000002" fill="none" stroke="#20AE65" stroke-width="4.4"/>
+<text x="1067.5" y="163.45000000000002" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="18.700000000000003" font-weight="700" fill="#000000">TRACK</text>
+<text x="1067.5" y="234.40000000000003" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="11.0" font-weight="700" fill="#000000">PHOTO APPEARANCE</text>
+<text x="1067.5" y="267.1" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#000000">track-button-track-photo-appearance</text>
+<rect x="30" y="370" width="512" height="256" rx="0" fill="#000000" stroke="#000000" stroke-width="2"/>
+<rect x="30" y="370" width="512" height="33" rx="0" fill="#000000" stroke="#000000" stroke-width="0"/>
+<text x="38" y="385.5" dominant-baseline="central" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" fill="#FFFFFF">MENU</text>
+<text x="502.5" y="385.5" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" fill="#FFFFFF">▶</text>
+<polyline points="35,402 537,402" fill="none" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="73" y="457" width="42" height="42" rx="4" fill="none" stroke="#FFFFFF" stroke-width="2"/>
+<polyline points="84,478 104,478" fill="none" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="94.0" y="602.0" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF">INPUT</text>
+<rect x="201" y="457" width="42" height="42" rx="4" fill="none" stroke="#FFFFFF" stroke-width="2"/>
+<polyline points="212,478 232,478" fill="none" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="222.0" y="602.0" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF">OUTPUT</text>
+<rect x="329" y="457" width="42" height="42" rx="4" fill="none" stroke="#FFFFFF" stroke-width="2"/>
+<polyline points="340,478 360,478" fill="none" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="350.0" y="602.0" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF">MIXER</text>
+<text x="286.0" y="645.5" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#000000">menu-screen</text>
+<rect x="650" y="370" width="512" height="256" rx="0" fill="#000000" stroke="#000000" stroke-width="2"/>
+<rect x="650" y="370" width="512" height="33" rx="0" fill="#000000" stroke="#000000" stroke-width="0"/>
+<text x="658" y="385.5" dominant-baseline="central" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" fill="#FFFFFF">SETUP</text>
+<text x="1122.5" y="385.5" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" fill="#FFFFFF">▶</text>
+<polyline points="655,402 1157,402" fill="none" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="650" y="424" width="128" height="184" rx="0" fill="#000000" stroke="#000000" stroke-width="0"/>
+<text x="714.0" y="462.0" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#FFFFFF">7</text>
+<ellipse cx="714.0" cy="529.0" rx="22.0" ry="22.0" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="1"/>
+<polyline points="714,529 726,513" fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="714.0" y="588.0" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#FFFFFF">CONTRAST</text>
+<rect x="778" y="424" width="128" height="184" rx="0" fill="#000000" stroke="#000000" stroke-width="0"/>
+<text x="842.0" y="447.5" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#FFFFFF">MEMORY</text>
+<text x="842.0" y="476.5" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#FFFFFF">NUMBER</text>
+<ellipse cx="842.0" cy="529.0" rx="22.0" ry="22.0" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="1"/>
+<polyline points="842,529 854,513" fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="842.0" y="578.0" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#FFFFFF">DISPLAY</text>
+<text x="842.0" y="598.0" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#FFFFFF">MODE</text>
+<rect x="906" y="424" width="128" height="184" rx="0" fill="#000000" stroke="#000000" stroke-width="0"/>
+<text x="970.0" y="447.5" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#FFFFFF">POS+</text>
+<text x="970.0" y="476.5" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#FFFFFF">STATUS</text>
+<ellipse cx="970.0" cy="529.0" rx="22.0" ry="22.0" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="1"/>
+<polyline points="970,529 982,513" fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="970.0" y="588.0" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#FFFFFF">INDICATOR</text>
+<rect x="1034" y="424" width="128" height="184" rx="0" fill="#000000" stroke="#000000" stroke-width="0"/>
+<text x="1098.0" y="462.0" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#FFFFFF">IMMEDIATE</text>
+<ellipse cx="1098.0" cy="529.0" rx="22.0" ry="22.0" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="1"/>
+<polyline points="1098,529 1110,513" fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="1098.0" y="578.0" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#FFFFFF">FX KNOB</text>
+<text x="1098.0" y="598.0" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#FFFFFF">MODE</text>
+<text x="906.0" y="645.5" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#000000">setup-screen</text>
+<rect x="30" y="730" width="512" height="256" rx="0" fill="#000000" stroke="#000000" stroke-width="2"/>
+<rect x="30" y="730" width="512" height="33" rx="0" fill="#000000" stroke="#000000" stroke-width="0"/>
+<text x="38" y="745.5" dominant-baseline="central" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" fill="#FFFFFF">MENU</text>
+<text x="502.5" y="745.5" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" fill="#FFFFFF">◀</text>
+<polyline points="35,762 537,762" fill="none" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="73" y="817" width="42" height="42" rx="4" fill="none" stroke="#FFFFFF" stroke-width="2"/>
+<polyline points="84,838 104,838" fill="none" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="94.0" y="962.0" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF">SETUP</text>
+<rect x="201" y="817" width="42" height="42" rx="4" fill="none" stroke="#FFFFFF" stroke-width="2"/>
+<polyline points="212,838 232,838" fill="none" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="222.0" y="952.0" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF">FACTORY</text>
+<text x="222.0" y="972.0" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF">RESET</text>
+<text x="286.0" y="1005.5" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#000000">menu-setup-screen</text>
+<rect x="650" y="730" width="512" height="256" rx="0" fill="#000000" stroke="#000000" stroke-width="2"/>
+<rect x="650" y="730" width="512" height="33" rx="0" fill="#000000" stroke="#000000" stroke-width="0"/>
+<text x="658" y="745.5" dominant-baseline="central" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" fill="#FFFFFF">TITLE</text>
+<text x="1122.5" y="745.5" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" fill="#FFFFFF">◀ ▶</text>
+<polyline points="655,762 1157,762" fill="none" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="650" y="784" width="128" height="184" rx="0" fill="#000000" stroke="#000000" stroke-width="0"/>
+<text x="714.0" y="822.0" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#FFFFFF">VALUE</text>
+<ellipse cx="714.0" cy="889.0" rx="22.0" ry="22.0" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="1"/>
+<polyline points="714,889 726,873" fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="714.0" y="948.0" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#FFFFFF">LABEL 1</text>
+<rect x="778" y="784" width="128" height="184" rx="0" fill="#000000" stroke="#000000" stroke-width="0"/>
+<text x="842.0" y="822.0" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#FFFFFF">VALUE</text>
+<ellipse cx="842.0" cy="889.0" rx="22.0" ry="22.0" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="1"/>
+<polyline points="842,889 854,873" fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="842.0" y="948.0" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#FFFFFF">LABEL 2</text>
+<rect x="906" y="784" width="128" height="184" rx="0" fill="#000000" stroke="#000000" stroke-width="0"/>
+<text x="970.0" y="822.0" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#FFFFFF">VALUE</text>
+<ellipse cx="970.0" cy="889.0" rx="22.0" ry="22.0" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="1"/>
+<polyline points="970,889 982,873" fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="970.0" y="948.0" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#FFFFFF">LABEL 3</text>
+<rect x="1034" y="784" width="128" height="184" rx="0" fill="#000000" stroke="#000000" stroke-width="0"/>
+<text x="1098.0" y="822.0" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#FFFFFF">VALUE</text>
+<ellipse cx="1098.0" cy="889.0" rx="22.0" ry="22.0" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="1"/>
+<polyline points="1098,889 1110,873" fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="1098.0" y="948.0" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#FFFFFF">LABEL 4</text>
+<text x="906.0" y="1005.5" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#000000">title-schematic-screen-reference</text>
+</svg>

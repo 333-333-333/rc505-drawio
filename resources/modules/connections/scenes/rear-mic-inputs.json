@@ -1,0 +1,122 @@
+{
+  "title": "Mic inputs",
+  "w": 178,
+  "h": 160,
+  "parts": [
+    {
+      "kind": "rect",
+      "x": 0,
+      "y": 0,
+      "w": 178,
+      "h": 160,
+      "fill": "#FFFFFF",
+      "stroke": "#000000",
+      "radius": 2,
+      "sw": 1
+    },
+    {
+      "kind": "text",
+      "text": "MIC2",
+      "x": 18,
+      "y": 36.0,
+      "w": 50,
+      "h": 14.0,
+      "size": 9,
+      "color": "#000000",
+      "bold": true,
+      "align": "center"
+    },
+    {
+      "kind": "ellipse",
+      "x": 19,
+      "y": 65,
+      "w": 48,
+      "h": 48,
+      "fill": "#FFFFFF",
+      "stroke": "#000000",
+      "sw": 2
+    },
+    {
+      "kind": "ellipse",
+      "x": 31,
+      "y": 85,
+      "w": 6,
+      "h": 6,
+      "fill": "#FFFFFF",
+      "stroke": "#000000",
+      "sw": 1
+    },
+    {
+      "kind": "ellipse",
+      "x": 49,
+      "y": 85,
+      "w": 6,
+      "h": 6,
+      "fill": "#FFFFFF",
+      "stroke": "#000000",
+      "sw": 1
+    },
+    {
+      "kind": "ellipse",
+      "x": 40,
+      "y": 97,
+      "w": 6,
+      "h": 6,
+      "fill": "#FFFFFF",
+      "stroke": "#000000",
+      "sw": 1
+    },
+    {
+      "kind": "text",
+      "text": "MIC1",
+      "x": 98,
+      "y": 36.0,
+      "w": 50,
+      "h": 14.0,
+      "size": 9,
+      "color": "#000000",
+      "bold": true,
+      "align": "center"
+    },
+    {
+      "kind": "ellipse",
+      "x": 99,
+      "y": 65,
+      "w": 48,
+      "h": 48,
+      "fill": "#FFFFFF",
+      "stroke": "#000000",
+      "sw": 2
+    },
+    {
+      "kind": "ellipse",
+      "x": 111,
+      "y": 85,
+      "w": 6,
+      "h": 6,
+      "fill": "#FFFFFF",
+      "stroke": "#000000",
+      "sw": 1
+    },
+    {
+      "kind": "ellipse",
+      "x": 129,
+      "y": 85,
+      "w": 6,
+      "h": 6,
+      "fill": "#FFFFFF",
+      "stroke": "#000000",
+      "sw": 1
+    },
+    {
+      "kind": "ellipse",
+      "x": 120,
+      "y": 97,
+      "w": 6,
+      "h": 6,
+      "fill": "#FFFFFF",
+      "stroke": "#000000",
+      "sw": 1
+    }
+  ]
+}
