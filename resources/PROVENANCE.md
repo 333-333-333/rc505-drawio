@@ -47,6 +47,8 @@ LCD resources use a 512 × 256 drawing frame, preserving the 128:64 display aspe
 
 The four-column template `title-schematic-screen-reference` uses explicit `TITLE`, `LABEL` and `VALUE` placeholders. Separate headers, fields, cursors, menu items and ON/OFF switches support new screens. SYSTEM/MEMORY selectors are also available in both states. These discrete controls are represented by switches; rotary-knob fields remain separate. Preset-specific target values and the tutorial's four-cable setup are excluded.
 
+The LCD switch is a narrow vertical capsule with a circular marker and its value above it, following the Owner's Manual screen examples on page 17. ON places the marker at the top; OFF places it at the bottom. The SYSTEM/MEMORY variants use the same vertical shape, but their marker positions follow the listed option order as a schematic convention: no direct photograph of a PREFERENCE screen was found to establish that mapping. The printed value identifies the requested state.
+
 ## Physical actions and validation limits
 
 The eight `action-*` resources depict reusable physical operations. Menu routes identify the label below which to press a knob without inventing an unverified selector number. CTL FUNC navigation says to continue until the option appears. The clear-track actions depict a quick double-press of that track's STOP button. This uses QUICK CLEAR, enabled under CTL FUNC → PREFERENCE → QUICK CLEAR = ON (Parameter Guide, p. 23). Track 5 selection depicts the physical press; custom assignments can alter its behavior.

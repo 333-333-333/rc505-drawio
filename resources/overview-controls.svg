@@ -94,9 +94,10 @@
 <polyline points="970,529 982,513" fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
 <text x="970.0" y="588.0" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#FFFFFF">INDICATOR</text>
 <rect x="1034" y="424" width="128" height="184" rx="0" fill="#000000" stroke="#000000" stroke-width="0"/>
-<text x="1098.0" y="462.0" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#FFFFFF">IMMEDIATE</text>
-<ellipse cx="1098.0" cy="529.0" rx="22.0" ry="22.0" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="1"/>
-<polyline points="1098,529 1110,513" fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="1098.0" y="436.0" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#FFFFFF">IMMEDIATE</text>
+<rect x="1034" y="473" width="128" height="64" rx="0" fill="#000000" stroke="#000000" stroke-width="0"/>
+<rect x="1090" y="477" width="16" height="52" rx="8" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0"/>
+<ellipse cx="1098.0" cy="521.0" rx="4.0" ry="4.0" fill="#000000" stroke="#000000" stroke-width="0"/>
 <text x="1098.0" y="578.0" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#FFFFFF">FX KNOB</text>
 <text x="1098.0" y="598.0" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#FFFFFF">MODE</text>
 <text x="906.0" y="645.5" dominant-baseline="central" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#000000">setup-screen</text>
